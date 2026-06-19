@@ -8,14 +8,15 @@ Career Compass AI is a full-stack AI-powered web application that helps students
 
 ## 🌐 Live Demo
 
-Frontend: Coming Soon  
-Backend API: Coming Soon
+Frontend:https://career-compass-ai-three.vercel.app/
+Backend API:https://career-compass-ai-backend.onrender.com
 
 ---
 
 ## 📸 Project Preview
 
 Screenshots will be added after deployment.
+
 
 ---
 
