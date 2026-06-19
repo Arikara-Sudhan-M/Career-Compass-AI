@@ -262,4 +262,8 @@ If you like this project, please give it a ⭐ on GitHub.
 
 ---
 
+<<<<<<< HEAD
 ## Thank You For Visiting Career Compass AI 🚀
+=======
+## Thank You For Visiting Career Compass AI 🚀
+>>>>>>> f273acd (Updated frontend API configuration and README)
