@@ -1,0 +1,4139 @@
+[
+  {
+    "careerName": "Software Developer",
+    "steps": [
+      "Learn Programming Fundamentals",
+      "Master Data Structures and Algorithms",
+      "Learn Frontend Development",
+      "Learn Backend Development",
+      "Build Real-World Projects",
+      "Prepare for Technical Interviews"
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Git"
+    ],
+    "resources": [
+      "freeCodeCamp",
+      "MDN Web Docs",
+      "CS50 Course",
+      "YouTube Programming Tutorials"
+    ]
+  },
+
+  {
+    "careerName": "Frontend Developer",
+    "steps": [
+      "Learn HTML and CSS",
+      "Master JavaScript",
+      "Learn React Framework",
+      "Understand Responsive Design",
+      "Build Portfolio Projects"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Tailwind CSS"
+    ],
+    "resources": [
+      "MDN Web Docs",
+      "Frontend Mentor",
+      "freeCodeCamp",
+      "React Documentation"
+    ]
+  },
+
+  {
+    "careerName": "Backend Developer",
+    "steps": [
+      "Learn Server-side Programming",
+      "Understand Databases",
+      "Master APIs and REST",
+      "Learn Authentication and Security",
+      "Build Backend Applications"
+    ],
+    "skills": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "SQL",
+      "API Development"
+    ],
+    "resources": [
+      "Node.js Docs",
+      "MongoDB University",
+      "Express Documentation",
+      "Backend Courses"
+    ]
+  },
+
+  {
+    "careerName": "Full Stack Developer",
+    "steps": [
+      "Learn Frontend Technologies",
+      "Learn Backend Technologies",
+      "Understand Databases",
+      "Build Complete Web Applications",
+      "Deploy Applications Online"
+    ],
+    "skills": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Git"
+    ],
+    "resources": [
+      "Full Stack Open",
+      "freeCodeCamp",
+      "YouTube Tutorials",
+      "MDN Web Docs"
+    ]
+  },
+
+  {
+    "careerName": "Mobile App Developer",
+    "steps": [
+      "Learn Programming Basics",
+      "Choose Android or iOS Development",
+      "Learn App Frameworks",
+      "Build Mobile Projects",
+      "Publish Apps"
+    ],
+    "skills": [
+      "Flutter",
+      "React Native",
+      "Java",
+      "Swift",
+      "UI Design"
+    ],
+    "resources": [
+      "Flutter Docs",
+      "React Native Docs",
+      "Google Codelabs",
+      "Udemy Courses"
+    ]
+  },
+
+  {
+    "careerName": "Data Scientist",
+    "steps": [
+      "Learn Python Programming",
+      "Study Statistics and Mathematics",
+      "Learn Data Analysis",
+      "Master Machine Learning",
+      "Build Data Science Projects"
+    ],
+    "skills": [
+      "Python",
+      "Pandas",
+      "Machine Learning",
+      "SQL",
+      "Data Visualization"
+    ],
+    "resources": [
+      "Kaggle",
+      "Coursera Data Science",
+      "Python Documentation",
+      "DataCamp"
+    ]
+  },
+
+  {
+    "careerName": "Data Analyst",
+    "steps": [
+      "Learn Excel and SQL",
+      "Understand Data Cleaning",
+      "Learn Data Visualization",
+      "Master Analytics Tools",
+      "Create Analysis Projects"
+    ],
+    "skills": [
+      "Excel",
+      "SQL",
+      "Power BI",
+      "Tableau",
+      "Python"
+    ],
+    "resources": [
+      "Kaggle",
+      "Google Data Analytics Course",
+      "YouTube Tutorials",
+      "DataCamp"
+    ]
+  },
+
+  {
+    "careerName": "AI Engineer",
+    "steps": [
+      "Learn Python",
+      "Study Mathematics for AI",
+      "Learn Machine Learning",
+      "Study Deep Learning",
+      "Build AI Applications"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "resources": [
+      "Coursera AI Courses",
+      "DeepLearning.AI",
+      "Kaggle",
+      "OpenAI Documentation"
+    ]
+  },
+
+  {
+    "careerName": "ML Engineer",
+    "steps": [
+      "Learn Programming",
+      "Study Machine Learning Algorithms",
+      "Understand Data Processing",
+      "Build ML Models",
+      "Deploy Machine Learning Systems"
+    ],
+    "skills": [
+      "Python",
+      "Scikit-learn",
+      "TensorFlow",
+      "Docker",
+      "Cloud Platforms"
+    ],
+    "resources": [
+      "Kaggle",
+      "Coursera ML Course",
+      "ML Books",
+      "Google AI Resources"
+    ]
+  },
+
+  {
+    "careerName": "Cloud Engineer",
+    "steps": [
+      "Learn Networking Basics",
+      "Understand Cloud Computing",
+      "Learn AWS or Azure",
+      "Study Cloud Security",
+      "Gain Certifications"
+    ],
+    "skills": [
+      "AWS",
+      "Azure",
+      "Linux",
+      "Networking",
+      "Docker"
+    ],
+    "resources": [
+      "AWS Training",
+      "Microsoft Learn",
+      "Google Cloud Training",
+      "Cloud Certifications"
+    ]
+  },
+
+  {
+    "careerName": "DevOps Engineer",
+    "steps": [
+      "Learn Linux",
+      "Understand CI/CD",
+      "Learn Containers",
+      "Study Cloud Services",
+      "Automate Deployments"
+    ],
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "Linux",
+      "AWS"
+    ],
+    "resources": [
+      "Docker Documentation",
+      "Kubernetes Docs",
+      "DevOps Courses",
+      "Linux Tutorials"
+    ]
+  },
+
+  {
+    "careerName": "Cyber Security Analyst",
+    "steps": [
+      "Learn Networking",
+      "Study Operating Systems",
+      "Understand Security Concepts",
+      "Practice Ethical Hacking",
+      "Get Security Certifications"
+    ],
+    "skills": [
+      "Network Security",
+      "Penetration Testing",
+      "Linux",
+      "Cryptography",
+      "Security Tools"
+    ],
+    "resources": [
+      "TryHackMe",
+      "Hack The Box",
+      "CompTIA Security+",
+      "Cyber Security Courses"
+    ]
+  },
+
+  {
+    "careerName": "Database Administrator",
+    "steps": [
+      "Learn Database Concepts",
+      "Master SQL",
+      "Study Database Security",
+      "Learn Backup and Recovery",
+      "Manage Database Systems"
+    ],
+    "skills": [
+      "SQL",
+      "MySQL",
+      "PostgreSQL",
+      "Database Design",
+      "Data Security"
+    ],
+    "resources": [
+      "SQL Tutorials",
+      "Database Courses",
+      "Oracle Documentation",
+      "MongoDB University"
+    ]
+  },
+
+  {
+    "careerName": "Network Engineer",
+    "steps": [
+      "Learn Networking Fundamentals",
+      "Understand Network Devices",
+      "Study Routing and Switching",
+      "Learn Network Security",
+      "Get Certifications"
+    ],
+    "skills": [
+      "Cisco Networking",
+      "TCP/IP",
+      "Routing",
+      "Switching",
+      "Network Security"
+    ],
+    "resources": [
+      "Cisco Networking Academy",
+      "CompTIA Network+",
+      "Networking Books",
+      "Online Courses"
+    ]
+  },
+
+  {
+    "careerName": "QA Engineer",
+    "steps": [
+      "Learn Software Testing Basics",
+      "Understand Manual Testing",
+      "Learn Automation Testing",
+      "Master Testing Tools",
+      "Work on Testing Projects"
+    ],
+    "skills": [
+      "Selenium",
+      "JUnit",
+      "API Testing",
+      "Bug Tracking",
+      "Automation"
+    ],
+    "resources": [
+      "Selenium Documentation",
+      "QA Courses",
+      "Automation Tutorials",
+      "Testing Communities"
+    ]
+  },
+
+{
+  "careerName": "Civil Engineer",
+  "steps": [
+    "Learn Engineering Mathematics and Physics",
+    "Study Structural Engineering Concepts",
+    "Learn CAD and Design Software",
+    "Understand Construction Management",
+    "Work on Real Engineering Projects"
+  ],
+  "skills": [
+    "AutoCAD",
+    "Structural Analysis",
+    "Project Management",
+    "Surveying",
+    "Problem Solving"
+  ],
+  "resources": [
+    "AutoCAD Tutorials",
+    "NPTEL Civil Engineering",
+    "Coursera Engineering Courses",
+    "Engineering Textbooks"
+  ]
+},
+
+{
+  "careerName": "Mechanical Engineer",
+  "steps": [
+    "Learn Mechanics and Thermodynamics",
+    "Study Machine Design",
+    "Learn CAD Software",
+    "Understand Manufacturing Processes",
+    "Build Engineering Projects"
+  ],
+  "skills": [
+    "AutoCAD",
+    "SolidWorks",
+    "Thermodynamics",
+    "Machine Design",
+    "Problem Solving"
+  ],
+  "resources": [
+    "SolidWorks Tutorials",
+    "NPTEL Mechanical Courses",
+    "Coursera Engineering Courses",
+    "Mechanical Design Books"
+  ]
+},
+
+{
+  "careerName": "Electrical Engineer",
+  "steps": [
+    "Study Electrical Fundamentals",
+    "Learn Circuit Design",
+    "Understand Power Systems",
+    "Study Control Systems",
+    "Gain Practical Experience"
+  ],
+  "skills": [
+    "Circuit Design",
+    "MATLAB",
+    "Power Systems",
+    "Electronics",
+    "Troubleshooting"
+  ],
+  "resources": [
+    "MATLAB Academy",
+    "Electrical Engineering Courses",
+    "NPTEL",
+    "Engineering Books"
+  ]
+},
+
+{
+  "careerName": "Electronics Engineer",
+  "steps": [
+    "Learn Basic Electronics",
+    "Study Embedded Systems",
+    "Learn Microcontrollers",
+    "Design Electronic Circuits",
+    "Build Electronics Projects"
+  ],
+  "skills": [
+    "Arduino",
+    "Microcontrollers",
+    "PCB Design",
+    "Embedded Systems",
+    "Circuit Analysis"
+  ],
+  "resources": [
+    "Arduino Documentation",
+    "Embedded Systems Courses",
+    "Electronics Tutorials",
+    "YouTube Engineering Channels"
+  ]
+},
+
+{
+  "careerName": "Chemical Engineer",
+  "steps": [
+    "Study Chemistry and Process Engineering",
+    "Learn Industrial Processes",
+    "Understand Plant Operations",
+    "Study Safety Standards",
+    "Work on Chemical Projects"
+  ],
+  "skills": [
+    "Process Design",
+    "Chemical Analysis",
+    "Plant Operations",
+    "Safety Management",
+    "Problem Solving"
+  ],
+  "resources": [
+    "Chemical Engineering Courses",
+    "NPTEL",
+    "Coursera",
+    "Engineering Journals"
+  ]
+},
+
+{
+  "careerName": "Aerospace Engineer",
+  "steps": [
+    "Learn Aerodynamics and Physics",
+    "Study Aircraft Design",
+    "Understand Propulsion Systems",
+    "Use Simulation Software",
+    "Work on Aerospace Projects"
+  ],
+  "skills": [
+    "Aerodynamics",
+    "CAD",
+    "Simulation",
+    "Aircraft Systems",
+    "Mathematics"
+  ],
+  "resources": [
+    "NASA Learning Resources",
+    "Aerospace Courses",
+    "MATLAB Tutorials",
+    "Engineering Books"
+  ]
+},
+
+{
+  "careerName": "Automobile Engineer",
+  "steps": [
+    "Study Vehicle Engineering",
+    "Learn Engine Systems",
+    "Understand Automotive Design",
+    "Learn Simulation Tools",
+    "Work on Vehicle Projects"
+  ],
+  "skills": [
+    "Automobile Design",
+    "CAD",
+    "Engine Technology",
+    "Diagnostics",
+    "Mechanical Knowledge"
+  ],
+  "resources": [
+    "Automotive Engineering Courses",
+    "AutoCAD Tutorials",
+    "Vehicle Design Books",
+    "Online Engineering Platforms"
+  ]
+},
+
+{
+  "careerName": "Robotics Engineer",
+  "steps": [
+    "Learn Programming Basics",
+    "Study Electronics and Mechanics",
+    "Understand Robotics Systems",
+    "Learn AI and Automation",
+    "Build Robotics Projects"
+  ],
+  "skills": [
+    "Python",
+    "C++",
+    "Arduino",
+    "ROS",
+    "Artificial Intelligence"
+  ],
+  "resources": [
+    "ROS Documentation",
+    "Robotics Courses",
+    "Arduino Projects",
+    "AI Learning Platforms"
+  ]
+},
+
+{
+  "careerName": "Biomedical Engineer",
+  "steps": [
+    "Study Biology and Engineering Basics",
+    "Learn Medical Equipment Design",
+    "Understand Healthcare Technology",
+    "Study Biomaterials",
+    "Develop Biomedical Projects"
+  ],
+  "skills": [
+    "Medical Devices",
+    "Biomaterials",
+    "CAD",
+    "Research",
+    "Problem Solving"
+  ],
+  "resources": [
+    "Biomedical Courses",
+    "Medical Technology Books",
+    "Coursera",
+    "Research Journals"
+  ]
+},
+
+{
+  "careerName": "Environmental Engineer",
+  "steps": [
+    "Study Environmental Science",
+    "Learn Pollution Control Methods",
+    "Understand Waste Management",
+    "Study Sustainable Engineering",
+    "Work on Environmental Projects"
+  ],
+  "skills": [
+    "Environmental Analysis",
+    "Sustainability",
+    "Waste Management",
+    "Research",
+    "Data Analysis"
+  ],
+  "resources": [
+    "Environmental Courses",
+    "Sustainability Programs",
+    "Research Papers",
+    "Government Environmental Resources"
+  ]
+},
+{
+  "careerName": "Doctor",
+  "steps": [
+    "Complete Higher Secondary Education with Science",
+    "Prepare and Qualify Medical Entrance Exams",
+    "Complete MBBS Degree",
+    "Choose a Medical Specialization",
+    "Complete Internship and Clinical Training"
+  ],
+  "skills": [
+    "Patient Care",
+    "Medical Knowledge",
+    "Diagnosis",
+    "Communication",
+    "Critical Thinking"
+  ],
+  "resources": [
+    "Medical Textbooks",
+    "NEET Preparation Resources",
+    "Online Medical Courses",
+    "Clinical Training Programs"
+  ]
+},
+
+{
+  "careerName": "Surgeon",
+  "steps": [
+    "Complete MBBS Degree",
+    "Pursue MS in Surgery",
+    "Learn Surgical Procedures",
+    "Gain Hospital Experience",
+    "Specialize in a Surgical Field"
+  ],
+  "skills": [
+    "Surgery Techniques",
+    "Precision",
+    "Decision Making",
+    "Patient Management",
+    "Teamwork"
+  ],
+  "resources": [
+    "Surgical Training Programs",
+    "Medical Journals",
+    "Hospital Internships",
+    "Advanced Surgery Courses"
+  ]
+},
+
+{
+  "careerName": "Nurse",
+  "steps": [
+    "Complete Nursing Education",
+    "Learn Patient Care Techniques",
+    "Gain Clinical Experience",
+    "Develop Emergency Handling Skills",
+    "Choose a Nursing Specialization"
+  ],
+  "skills": [
+    "Patient Care",
+    "First Aid",
+    "Communication",
+    "Medical Procedures",
+    "Compassion"
+  ],
+  "resources": [
+    "Nursing Courses",
+    "Clinical Training",
+    "Medical Books",
+    "Healthcare Workshops"
+  ]
+},
+
+{
+  "careerName": "Pharmacist",
+  "steps": [
+    "Complete Pharmacy Degree",
+    "Study Medicines and Drug Composition",
+    "Learn Prescription Handling",
+    "Understand Pharmaceutical Regulations",
+    "Gain Practical Pharmacy Experience"
+  ],
+  "skills": [
+    "Drug Knowledge",
+    "Pharmaceutical Science",
+    "Attention to Detail",
+    "Communication",
+    "Patient Guidance"
+  ],
+  "resources": [
+    "Pharmacy Courses",
+    "Medical Journals",
+    "Pharmaceutical Training",
+    "Drug Databases"
+  ]
+},
+
+{
+  "careerName": "Dentist",
+  "steps": [
+    "Complete Dental Education",
+    "Learn Oral Health Practices",
+    "Gain Clinical Experience",
+    "Study Advanced Dental Procedures",
+    "Start Professional Practice"
+  ],
+  "skills": [
+    "Dental Procedures",
+    "Patient Care",
+    "Hand Precision",
+    "Diagnosis",
+    "Communication"
+  ],
+  "resources": [
+    "Dental Colleges",
+    "Dental Journals",
+    "Clinical Training",
+    "Dental Workshops"
+  ]
+},
+
+{
+  "careerName": "Physiotherapist",
+  "steps": [
+    "Complete Physiotherapy Degree",
+    "Study Human Anatomy",
+    "Learn Rehabilitation Techniques",
+    "Practice Physical Therapy",
+    "Gain Experience with Patients"
+  ],
+  "skills": [
+    "Physical Rehabilitation",
+    "Anatomy",
+    "Patient Care",
+    "Communication",
+    "Problem Solving"
+  ],
+  "resources": [
+    "Physiotherapy Courses",
+    "Medical Books",
+    "Clinical Training",
+    "Healthcare Seminars"
+  ]
+},
+
+{
+  "careerName": "Psychologist",
+  "steps": [
+    "Complete Psychology Degree",
+    "Study Human Behavior",
+    "Learn Counseling Techniques",
+    "Gain Clinical Experience",
+    "Specialize in a Psychology Field"
+  ],
+  "skills": [
+    "Counseling",
+    "Observation",
+    "Communication",
+    "Empathy",
+    "Research"
+  ],
+  "resources": [
+    "Psychology Courses",
+    "Research Journals",
+    "Counseling Workshops",
+    "Online Psychology Platforms"
+  ]
+},
+
+{
+  "careerName": "Veterinarian",
+  "steps": [
+    "Complete Veterinary Science Degree",
+    "Study Animal Health",
+    "Learn Diagnosis and Treatment",
+    "Gain Clinical Experience",
+    "Specialize in Animal Care"
+  ],
+  "skills": [
+    "Animal Care",
+    "Medical Diagnosis",
+    "Surgery",
+    "Communication",
+    "Compassion"
+  ],
+  "resources": [
+    "Veterinary Colleges",
+    "Animal Healthcare Courses",
+    "Research Journals",
+    "Clinical Training"
+  ]
+},
+
+{
+  "careerName": "Medical Laboratory Technician",
+  "steps": [
+    "Complete Laboratory Science Education",
+    "Learn Medical Testing Procedures",
+    "Understand Laboratory Equipment",
+    "Gain Practical Experience",
+    "Develop Diagnostic Skills"
+  ],
+  "skills": [
+    "Laboratory Testing",
+    "Microscopy",
+    "Data Recording",
+    "Attention to Detail",
+    "Medical Knowledge"
+  ],
+  "resources": [
+    "Laboratory Courses",
+    "Medical Training",
+    "Healthcare Workshops",
+    "Clinical Labs"
+  ]
+},
+
+{
+  "careerName": "Medical Researcher",
+  "steps": [
+    "Complete Life Science or Medical Degree",
+    "Learn Research Methodologies",
+    "Conduct Scientific Experiments",
+    "Analyze Medical Data",
+    "Publish Research Findings"
+  ],
+  "skills": [
+    "Research",
+    "Data Analysis",
+    "Scientific Writing",
+    "Laboratory Techniques",
+    "Critical Thinking"
+  ],
+  "resources": [
+    "Research Journals",
+    "Medical Conferences",
+    "Online Science Courses",
+    "Laboratory Training"
+  ]
+},
+
+{
+  "careerName": "Chartered Accountant",
+  "steps": [
+    "Complete Commerce Education",
+    "Register for CA Foundation",
+    "Clear Intermediate and Final Exams",
+    "Complete Articleship Training",
+    "Become a Certified Chartered Accountant"
+  ],
+  "skills": [
+    "Accounting",
+    "Taxation",
+    "Auditing",
+    "Financial Analysis",
+    "Problem Solving"
+  ],
+  "resources": [
+    "ICAI Study Material",
+    "CA Coaching Courses",
+    "Accounting Books",
+    "Financial Journals"
+  ]
+},
+
+{
+  "careerName": "Accountant",
+  "steps": [
+    "Learn Accounting Principles",
+    "Study Financial Statements",
+    "Learn Accounting Software",
+    "Understand Taxation Rules",
+    "Gain Practical Experience"
+  ],
+  "skills": [
+    "Tally",
+    "MS Excel",
+    "Bookkeeping",
+    "Tax Calculation",
+    "Financial Reporting"
+  ],
+  "resources": [
+    "Tally Tutorials",
+    "Accounting Courses",
+    "Finance Books",
+    "Online Certifications"
+  ]
+},
+
+{
+  "careerName": "Financial Analyst",
+  "steps": [
+    "Learn Finance Fundamentals",
+    "Study Financial Markets",
+    "Learn Data Analysis",
+    "Understand Investment Strategies",
+    "Build Financial Models"
+  ],
+  "skills": [
+    "Financial Modeling",
+    "Excel",
+    "Data Analysis",
+    "Investment Analysis",
+    "Research"
+  ],
+  "resources": [
+    "CFA Resources",
+    "Finance Courses",
+    "Market Research Reports",
+    "Financial News Platforms"
+  ]
+},
+
+{
+  "careerName": "Investment Banker",
+  "steps": [
+    "Study Finance and Economics",
+    "Understand Capital Markets",
+    "Learn Valuation Techniques",
+    "Gain Internship Experience",
+    "Work on Corporate Deals"
+  ],
+  "skills": [
+    "Financial Modeling",
+    "Valuation",
+    "Negotiation",
+    "Communication",
+    "Market Analysis"
+  ],
+  "resources": [
+    "Investment Banking Courses",
+    "Finance Books",
+    "Wall Street Resources",
+    "Internship Programs"
+  ]
+},
+
+{
+  "careerName": "Business Analyst",
+  "steps": [
+    "Learn Business Processes",
+    "Study Data Analysis",
+    "Learn Requirement Gathering",
+    "Understand Business Tools",
+    "Work on Business Projects"
+  ],
+  "skills": [
+    "Excel",
+    "SQL",
+    "Power BI",
+    "Communication",
+    "Problem Solving"
+  ],
+  "resources": [
+    "Business Analysis Courses",
+    "Udemy",
+    "Coursera",
+    "Microsoft Learn"
+  ]
+},
+
+{
+  "careerName": "Entrepreneur",
+  "steps": [
+    "Identify Business Opportunities",
+    "Learn Business Planning",
+    "Study Marketing and Finance",
+    "Build and Launch a Product",
+    "Grow and Manage the Business"
+  ],
+  "skills": [
+    "Leadership",
+    "Marketing",
+    "Finance",
+    "Decision Making",
+    "Communication"
+  ],
+  "resources": [
+    "Startup Courses",
+    "Business Books",
+    "Y Combinator Resources",
+    "Entrepreneur Communities"
+  ]
+},
+
+{
+  "careerName": "Marketing Manager",
+  "steps": [
+    "Learn Marketing Fundamentals",
+    "Study Consumer Behavior",
+    "Understand Digital Marketing",
+    "Develop Campaign Strategies",
+    "Analyze Marketing Performance"
+  ],
+  "skills": [
+    "SEO",
+    "Social Media Marketing",
+    "Content Marketing",
+    "Analytics",
+    "Communication"
+  ],
+  "resources": [
+    "Google Digital Garage",
+    "HubSpot Academy",
+    "Marketing Courses",
+    "Industry Blogs"
+  ]
+},
+
+{
+  "careerName": "Human Resource Manager",
+  "steps": [
+    "Study Human Resource Management",
+    "Learn Recruitment Processes",
+    "Understand Labor Laws",
+    "Develop Employee Management Skills",
+    "Gain HR Experience"
+  ],
+  "skills": [
+    "Recruitment",
+    "Communication",
+    "Leadership",
+    "Conflict Resolution",
+    "Organization"
+  ],
+  "resources": [
+    "HR Courses",
+    "SHRM Resources",
+    "Management Books",
+    "Online Certifications"
+  ]
+},
+
+{
+  "careerName": "Sales Manager",
+  "steps": [
+    "Learn Sales Techniques",
+    "Understand Customer Psychology",
+    "Develop Negotiation Skills",
+    "Manage Sales Teams",
+    "Analyze Sales Performance"
+  ],
+  "skills": [
+    "Sales",
+    "Negotiation",
+    "Communication",
+    "Leadership",
+    "Customer Relationship Management"
+  ],
+  "resources": [
+    "Sales Training Programs",
+    "CRM Tutorials",
+    "Business Courses",
+    "Leadership Books"
+  ]
+},
+
+{
+  "careerName": "Banker",
+  "steps": [
+    "Study Banking and Finance",
+    "Learn Financial Products",
+    "Understand Banking Regulations",
+    "Gain Practical Banking Experience",
+    "Prepare for Banking Certifications"
+  ],
+  "skills": [
+    "Finance",
+    "Customer Service",
+    "Risk Management",
+    "Communication",
+    "Financial Analysis"
+  ],
+  "resources": [
+    "Banking Courses",
+    "Finance Books",
+    "RBI Resources",
+    "Certification Programs"
+  ]
+},
+
+{
+  "careerName": "UI UX Designer",
+  "steps": [
+    "Learn Design Principles",
+    "Understand User Psychology",
+    "Master Wireframing and Prototyping",
+    "Learn Design Tools",
+    "Build a Strong Portfolio"
+  ],
+  "skills": [
+    "Figma",
+    "Adobe XD",
+    "Wireframing",
+    "Prototyping",
+    "User Research"
+  ],
+  "resources": [
+    "Figma Academy",
+    "Google UX Design Course",
+    "Coursera UI UX Courses",
+    "Dribbble"
+  ]
+},
+
+{
+  "careerName": "Graphic Designer",
+  "steps": [
+    "Learn Visual Design Fundamentals",
+    "Master Design Software",
+    "Study Typography and Color Theory",
+    "Create Creative Projects",
+    "Build a Professional Portfolio"
+  ],
+  "skills": [
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "Typography",
+    "Creativity",
+    "Brand Design"
+  ],
+  "resources": [
+    "Adobe Tutorials",
+    "Behance",
+    "Skillshare Design Courses",
+    "YouTube Design Channels"
+  ]
+},
+
+{
+  "careerName": "Game Designer",
+  "steps": [
+    "Learn Game Design Basics",
+    "Understand Storytelling and Level Design",
+    "Learn Unity or Unreal Engine",
+    "Create Game Prototypes",
+    "Build a Game Design Portfolio"
+  ],
+  "skills": [
+    "Unity",
+    "Unreal Engine",
+    "Game Mechanics",
+    "Creativity",
+    "Problem Solving"
+  ],
+  "resources": [
+    "Unity Learn",
+    "Unreal Engine Documentation",
+    "Game Design Courses",
+    "Game Development YouTube Channels"
+  ]
+},
+
+{
+  "careerName": "Animator",
+  "steps": [
+    "Learn Animation Principles",
+    "Master 2D and 3D Animation Tools",
+    "Study Character Design",
+    "Create Animation Projects",
+    "Build an Animation Portfolio"
+  ],
+  "skills": [
+    "Blender",
+    "Maya",
+    "After Effects",
+    "Storytelling",
+    "Creativity"
+  ],
+  "resources": [
+    "Blender Tutorials",
+    "Animation Mentor",
+    "Udemy Animation Courses",
+    "YouTube Tutorials"
+  ]
+},
+
+{
+  "careerName": "Fashion Designer",
+  "steps": [
+    "Learn Fashion Design Fundamentals",
+    "Study Fabrics and Materials",
+    "Learn Sketching and Pattern Making",
+    "Create Clothing Collections",
+    "Build a Fashion Portfolio"
+  ],
+  "skills": [
+    "Fashion Illustration",
+    "Pattern Making",
+    "Sewing",
+    "Creativity",
+    "Trend Analysis"
+  ],
+  "resources": [
+    "Fashion Design Courses",
+    "Design Institutes",
+    "Fashion Magazines",
+    "Online Tutorials"
+  ]
+},
+
+{
+  "careerName": "Interior Designer",
+  "steps": [
+    "Study Interior Design Concepts",
+    "Learn Space Planning",
+    "Master Design Software",
+    "Create Interior Projects",
+    "Build a Professional Portfolio"
+  ],
+  "skills": [
+    "AutoCAD",
+    "SketchUp",
+    "3D Visualization",
+    "Creativity",
+    "Space Planning"
+  ],
+  "resources": [
+    "Interior Design Courses",
+    "AutoCAD Tutorials",
+    "Design Blogs",
+    "Online Workshops"
+  ]
+},
+
+{
+  "careerName": "Photographer",
+  "steps": [
+    "Learn Camera Basics",
+    "Understand Lighting and Composition",
+    "Practice Different Photography Styles",
+    "Edit Photos Professionally",
+    "Build a Photography Portfolio"
+  ],
+  "skills": [
+    "Photography",
+    "Lighting",
+    "Adobe Lightroom",
+    "Photoshop",
+    "Creativity"
+  ],
+  "resources": [
+    "Photography Courses",
+    "YouTube Photography Channels",
+    "Adobe Tutorials",
+    "Photography Communities"
+  ]
+},
+
+{
+  "careerName": "Film Director",
+  "steps": [
+    "Study Film Making Basics",
+    "Learn Storytelling and Script Analysis",
+    "Understand Camera and Production Techniques",
+    "Create Short Films",
+    "Build Industry Experience"
+  ],
+  "skills": [
+    "Direction",
+    "Storytelling",
+    "Leadership",
+    "Video Production",
+    "Creativity"
+  ],
+  "resources": [
+    "Film Schools",
+    "MasterClass Film Courses",
+    "Film Making Books",
+    "YouTube Tutorials"
+  ]
+},
+
+{
+  "careerName": "Video Editor",
+  "steps": [
+    "Learn Video Editing Fundamentals",
+    "Master Editing Software",
+    "Understand Color Grading and Effects",
+    "Create Editing Projects",
+    "Build a Professional Showreel"
+  ],
+  "skills": [
+    "Adobe Premiere Pro",
+    "Final Cut Pro",
+    "After Effects",
+    "Color Correction",
+    "Creativity"
+  ],
+  "resources": [
+    "Adobe Tutorials",
+    "Video Editing Courses",
+    "YouTube Editing Channels",
+    "Online Workshops"
+  ]
+},
+
+{
+  "careerName": "Content Creator",
+  "steps": [
+    "Choose a Content Niche",
+    "Learn Content Planning",
+    "Master Video and Graphic Creation",
+    "Build an Audience",
+    "Analyze and Improve Content Performance"
+  ],
+  "skills": [
+    "Content Strategy",
+    "Video Editing",
+    "Social Media",
+    "Communication",
+    "Creativity"
+  ],
+  "resources": [
+    "YouTube Creator Academy",
+    "Canva Design School",
+    "Digital Marketing Courses",
+    "Content Creator Communities"
+  ]
+},
+{
+  "careerName": "Teacher",
+  "steps": [
+    "Complete a Bachelor's Degree",
+    "Pursue B.Ed or Teaching Certification",
+    "Develop Classroom Management Skills",
+    "Gain Teaching Experience",
+    "Continue Professional Development"
+  ],
+  "skills": [
+    "Communication",
+    "Subject Knowledge",
+    "Classroom Management",
+    "Patience",
+    "Leadership"
+  ],
+  "resources": [
+    "NCERT Resources",
+    "Teaching Certification Courses",
+    "Educational Workshops",
+    "Online Teaching Platforms"
+  ]
+},
+
+{
+  "careerName": "Professor",
+  "steps": [
+    "Complete Bachelor's and Master's Degrees",
+    "Pursue a PhD in a Specialized Subject",
+    "Conduct Academic Research",
+    "Publish Research Papers",
+    "Gain University Teaching Experience"
+  ],
+  "skills": [
+    "Research",
+    "Subject Expertise",
+    "Public Speaking",
+    "Academic Writing",
+    "Critical Thinking"
+  ],
+  "resources": [
+    "Research Journals",
+    "University Courses",
+    "Academic Conferences",
+    "Online Learning Platforms"
+  ]
+},
+
+{
+  "careerName": "School Counselor",
+  "steps": [
+    "Study Psychology or Counseling",
+    "Learn Student Guidance Techniques",
+    "Develop Communication Skills",
+    "Gain Counseling Experience",
+    "Earn Professional Certifications"
+  ],
+  "skills": [
+    "Counseling",
+    "Empathy",
+    "Communication",
+    "Problem Solving",
+    "Observation"
+  ],
+  "resources": [
+    "Psychology Courses",
+    "Counseling Workshops",
+    "Educational Psychology Books",
+    "Professional Training Programs"
+  ]
+},
+
+{
+  "careerName": "Lawyer",
+  "steps": [
+    "Complete a Law Degree",
+    "Study Legal Principles and Procedures",
+    "Gain Internship Experience",
+    "Pass Legal Licensing Examinations",
+    "Choose a Legal Specialization"
+  ],
+  "skills": [
+    "Legal Research",
+    "Argumentation",
+    "Communication",
+    "Negotiation",
+    "Critical Thinking"
+  ],
+  "resources": [
+    "Legal Textbooks",
+    "Law Journals",
+    "Court Internships",
+    "Online Law Courses"
+  ]
+},
+
+{
+  "careerName": "Judge",
+  "steps": [
+    "Complete a Law Degree",
+    "Gain Experience as a Lawyer",
+    "Prepare for Judicial Service Examinations",
+    "Develop Strong Legal Knowledge",
+    "Serve in the Judiciary"
+  ],
+  "skills": [
+    "Legal Knowledge",
+    "Decision Making",
+    "Ethics",
+    "Analytical Thinking",
+    "Communication"
+  ],
+  "resources": [
+    "Judicial Exam Preparation Books",
+    "Law Journals",
+    "Court Practice",
+    "Legal Training Programs"
+  ]
+},
+
+{
+  "careerName": "Civil Services Officer",
+  "steps": [
+    "Complete a Bachelor's Degree",
+    "Prepare for Civil Service Examinations",
+    "Study Current Affairs and Governance",
+    "Clear Preliminary and Main Exams",
+    "Complete Administrative Training"
+  ],
+  "skills": [
+    "Leadership",
+    "Decision Making",
+    "Administration",
+    "Communication",
+    "Problem Solving"
+  ],
+  "resources": [
+    "UPSC Study Material",
+    "NCERT Books",
+    "Government Reports",
+    "Current Affairs Platforms"
+  ]
+},
+
+{
+  "careerName": "Police Officer",
+  "steps": [
+    "Meet Eligibility Requirements",
+    "Prepare for Police Recruitment Exams",
+    "Develop Physical Fitness",
+    "Complete Police Training",
+    "Gain Field Experience"
+  ],
+  "skills": [
+    "Discipline",
+    "Leadership",
+    "Physical Fitness",
+    "Investigation",
+    "Communication"
+  ],
+  "resources": [
+    "Police Training Academies",
+    "Physical Training Programs",
+    "Law Books",
+    "Recruitment Preparation Courses"
+  ]
+},
+
+{
+  "careerName": "Army Officer",
+  "steps": [
+    "Complete Required Education",
+    "Prepare for Defense Entrance Exams",
+    "Clear Selection and Physical Tests",
+    "Complete Military Training",
+    "Develop Leadership Skills"
+  ],
+  "skills": [
+    "Leadership",
+    "Physical Fitness",
+    "Strategic Thinking",
+    "Discipline",
+    "Team Management"
+  ],
+  "resources": [
+    "NDA Preparation Materials",
+    "Military Training Academies",
+    "Defense Study Guides",
+    "Physical Fitness Programs"
+  ]
+},
+
+{
+  "careerName": "Air Force Officer",
+  "steps": [
+    "Complete Required Education",
+    "Prepare for Air Force Entrance Exams",
+    "Clear Medical and Physical Tests",
+    "Complete Air Force Training",
+    "Specialize in Aviation or Technical Fields"
+  ],
+  "skills": [
+    "Leadership",
+    "Technical Knowledge",
+    "Physical Fitness",
+    "Decision Making",
+    "Discipline"
+  ],
+  "resources": [
+    "Air Force Academy Resources",
+    "Defense Exam Courses",
+    "Aviation Training Materials",
+    "Physical Training Programs"
+  ]
+},
+
+{
+  "careerName": "Navy Officer",
+  "steps": [
+    "Complete Required Education",
+    "Prepare for Naval Entrance Exams",
+    "Pass Selection and Medical Tests",
+    "Complete Naval Training",
+    "Develop Maritime and Leadership Skills"
+  ],
+  "skills": [
+    "Leadership",
+    "Navigation",
+    "Technical Skills",
+    "Discipline",
+    "Teamwork"
+  ],
+  "resources": [
+    "Naval Academy Training",
+    "Defense Preparation Courses",
+    "Maritime Studies",
+    "Physical Training Programs"
+  ]
+},
+
+{
+  "careerName": "Scientist",
+  "steps": [
+    "Complete a Science Degree",
+    "Choose a Specialized Field",
+    "Pursue Higher Studies or Research",
+    "Conduct Scientific Experiments",
+    "Publish Research and Develop Innovations"
+  ],
+  "skills": [
+    "Research",
+    "Data Analysis",
+    "Critical Thinking",
+    "Problem Solving",
+    "Scientific Writing"
+  ],
+  "resources": [
+    "Research Journals",
+    "Scientific Conferences",
+    "Online Science Courses",
+    "Laboratory Training"
+  ]
+},
+
+{
+  "careerName": "Research Scientist",
+  "steps": [
+    "Complete Bachelor's and Master's Degrees",
+    "Pursue a PhD or Advanced Research",
+    "Develop Experimental Skills",
+    "Analyze Research Data",
+    "Publish Scientific Findings"
+  ],
+  "skills": [
+    "Research Methodology",
+    "Statistics",
+    "Laboratory Techniques",
+    "Scientific Communication",
+    "Critical Thinking"
+  ],
+  "resources": [
+    "Research Papers",
+    "University Research Programs",
+    "Scientific Databases",
+    "Academic Conferences"
+  ]
+},
+
+{
+  "careerName": "Biotechnologist",
+  "steps": [
+    "Study Biology and Biotechnology",
+    "Learn Genetic Engineering Concepts",
+    "Gain Laboratory Experience",
+    "Work on Biotechnology Projects",
+    "Specialize in a Biotechnology Domain"
+  ],
+  "skills": [
+    "Molecular Biology",
+    "Genetics",
+    "Laboratory Skills",
+    "Data Analysis",
+    "Research"
+  ],
+  "resources": [
+    "Biotechnology Courses",
+    "Research Journals",
+    "Laboratory Workshops",
+    "Online Certifications"
+  ]
+},
+
+{
+  "careerName": "Microbiologist",
+  "steps": [
+    "Complete Microbiology Education",
+    "Study Microorganisms and Diseases",
+    "Learn Laboratory Procedures",
+    "Conduct Research and Testing",
+    "Gain Practical Laboratory Experience"
+  ],
+  "skills": [
+    "Microbiology",
+    "Laboratory Techniques",
+    "Research",
+    "Data Analysis",
+    "Observation"
+  ],
+  "resources": [
+    "Microbiology Textbooks",
+    "Laboratory Training",
+    "Research Journals",
+    "Online Courses"
+  ]
+},
+
+{
+  "careerName": "Chemist",
+  "steps": [
+    "Complete Chemistry Education",
+    "Study Organic and Inorganic Chemistry",
+    "Learn Laboratory Safety",
+    "Perform Chemical Experiments",
+    "Specialize in a Chemistry Field"
+  ],
+  "skills": [
+    "Chemical Analysis",
+    "Laboratory Techniques",
+    "Research",
+    "Attention to Detail",
+    "Problem Solving"
+  ],
+  "resources": [
+    "Chemistry Books",
+    "Laboratory Courses",
+    "Scientific Journals",
+    "Online Chemistry Platforms"
+  ]
+},
+
+{
+  "careerName": "Physicist",
+  "steps": [
+    "Complete Physics Education",
+    "Study Advanced Physics Concepts",
+    "Develop Mathematical Skills",
+    "Conduct Experiments and Research",
+    "Specialize in a Physics Domain"
+  ],
+  "skills": [
+    "Mathematics",
+    "Research",
+    "Data Analysis",
+    "Problem Solving",
+    "Programming"
+  ],
+  "resources": [
+    "Physics Textbooks",
+    "Research Papers",
+    "Online Physics Courses",
+    "Scientific Conferences"
+  ]
+},
+
+{
+  "careerName": "Agricultural Scientist",
+  "steps": [
+    "Study Agricultural Science",
+    "Learn Crop and Soil Management",
+    "Understand Agricultural Technologies",
+    "Conduct Agricultural Research",
+    "Develop Sustainable Farming Solutions"
+  ],
+  "skills": [
+    "Crop Science",
+    "Research",
+    "Data Analysis",
+    "Soil Management",
+    "Problem Solving"
+  ],
+  "resources": [
+    "Agricultural Universities",
+    "Research Journals",
+    "Government Agriculture Resources",
+    "Farming Workshops"
+  ]
+},
+
+{
+  "careerName": "Farmer",
+  "steps": [
+    "Learn Modern Farming Techniques",
+    "Understand Soil and Crop Management",
+    "Use Agricultural Technology",
+    "Improve Production Methods",
+    "Develop Sustainable Farming Practices"
+  ],
+  "skills": [
+    "Crop Management",
+    "Equipment Handling",
+    "Business Management",
+    "Problem Solving",
+    "Decision Making"
+  ],
+  "resources": [
+    "Government Agriculture Programs",
+    "Farming Courses",
+    "Agriculture YouTube Channels",
+    "Local Agricultural Workshops"
+  ]
+},
+
+{
+  "careerName": "Food Technologist",
+  "steps": [
+    "Complete Food Science Education",
+    "Learn Food Processing Techniques",
+    "Understand Food Safety Standards",
+    "Work in Food Quality Control",
+    "Develop Innovative Food Products"
+  ],
+  "skills": [
+    "Food Processing",
+    "Quality Control",
+    "Research",
+    "Food Safety",
+    "Problem Solving"
+  ],
+  "resources": [
+    "Food Technology Courses",
+    "Research Journals",
+    "Industry Training",
+    "Food Science Books"
+  ]
+},
+
+{
+  "careerName": "Environmental Scientist",
+  "steps": [
+    "Study Environmental Science",
+    "Learn Ecology and Conservation",
+    "Conduct Environmental Research",
+    "Analyze Environmental Data",
+    "Develop Sustainable Solutions"
+  ],
+  "skills": [
+    "Environmental Analysis",
+    "Research",
+    "Data Analysis",
+    "Problem Solving",
+    "Conservation"
+  ],
+  "resources": [
+    "Environmental Courses",
+    "Research Papers",
+    "Government Environmental Programs",
+    "Scientific Conferences"
+  ]
+},
+
+{
+  "careerName": "Hotel Manager",
+  "steps": [
+    "Study Hotel Management",
+    "Learn Hospitality Operations",
+    "Gain Experience in Hotel Departments",
+    "Develop Leadership Skills",
+    "Manage Hotel Services and Staff"
+  ],
+  "skills": [
+    "Customer Service",
+    "Leadership",
+    "Communication",
+    "Management",
+    "Problem Solving"
+  ],
+  "resources": [
+    "Hotel Management Courses",
+    "Hospitality Training Programs",
+    "Internships",
+    "Industry Workshops"
+  ]
+},
+
+{
+  "careerName": "Chef",
+  "steps": [
+    "Learn Cooking Fundamentals",
+    "Study Food Preparation Techniques",
+    "Practice Different Cuisines",
+    "Work in Professional Kitchens",
+    "Specialize in Culinary Arts"
+  ],
+  "skills": [
+    "Cooking",
+    "Food Presentation",
+    "Creativity",
+    "Time Management",
+    "Kitchen Management"
+  ],
+  "resources": [
+    "Culinary Schools",
+    "Cooking Classes",
+    "Chef Workshops",
+    "Online Cooking Platforms"
+  ]
+},
+
+{
+  "careerName": "Event Manager",
+  "steps": [
+    "Study Event Planning",
+    "Learn Budget and Vendor Management",
+    "Develop Communication Skills",
+    "Manage Small Events",
+    "Handle Large Scale Events Professionally"
+  ],
+  "skills": [
+    "Event Planning",
+    "Communication",
+    "Negotiation",
+    "Leadership",
+    "Organization"
+  ],
+  "resources": [
+    "Event Management Courses",
+    "Internships",
+    "Business Workshops",
+    "Industry Events"
+  ]
+},
+
+{
+  "careerName": "Travel Consultant",
+  "steps": [
+    "Study Tourism and Travel Industry",
+    "Learn Travel Booking Systems",
+    "Understand Destinations and Cultures",
+    "Develop Customer Service Skills",
+    "Gain Travel Industry Experience"
+  ],
+  "skills": [
+    "Communication",
+    "Travel Planning",
+    "Customer Service",
+    "Sales",
+    "Problem Solving"
+  ],
+  "resources": [
+    "Tourism Courses",
+    "Travel Certification Programs",
+    "Travel Industry Websites",
+    "Customer Service Training"
+  ]
+},
+
+{
+  "careerName": "Pilot",
+  "steps": [
+    "Complete Required Education",
+    "Join a Flying School",
+    "Obtain Pilot Licenses",
+    "Complete Flight Training Hours",
+    "Gain Commercial Aviation Experience"
+  ],
+  "skills": [
+    "Aircraft Operations",
+    "Navigation",
+    "Decision Making",
+    "Technical Knowledge",
+    "Discipline"
+  ],
+  "resources": [
+    "Flight Academies",
+    "Aviation Training Centers",
+    "Pilot Manuals",
+    "Simulator Training"
+  ]
+},
+
+{
+  "careerName": "Cabin Crew",
+  "steps": [
+    "Complete Required Education",
+    "Learn Customer Service and Safety Procedures",
+    "Complete Airline Training",
+    "Develop Communication and Emergency Skills",
+    "Work with Airlines"
+  ],
+  "skills": [
+    "Communication",
+    "Customer Service",
+    "Emergency Handling",
+    "Teamwork",
+    "Professionalism"
+  ],
+  "resources": [
+    "Cabin Crew Training Institutes",
+    "Airline Training Programs",
+    "Personality Development Courses",
+    "Aviation Workshops"
+  ]
+},
+
+{
+  "careerName": "Sports Coach",
+  "steps": [
+    "Develop Expertise in a Sport",
+    "Study Coaching Techniques",
+    "Gain Certification",
+    "Train Players and Teams",
+    "Continue Learning Advanced Strategies"
+  ],
+  "skills": [
+    "Coaching",
+    "Leadership",
+    "Communication",
+    "Fitness Training",
+    "Strategy Development"
+  ],
+  "resources": [
+    "Sports Coaching Courses",
+    "Certification Programs",
+    "Sports Academies",
+    "Training Workshops"
+  ]
+},
+
+{
+  "careerName": "Professional Athlete",
+  "steps": [
+    "Choose a Sport and Train Regularly",
+    "Develop Physical and Mental Strength",
+    "Participate in Competitions",
+    "Work with Professional Coaches",
+    "Compete at National and International Levels"
+  ],
+  "skills": [
+    "Physical Fitness",
+    "Discipline",
+    "Teamwork",
+    "Strategy",
+    "Mental Strength"
+  ],
+  "resources": [
+    "Sports Academies",
+    "Professional Coaches",
+    "Fitness Programs",
+    "Competitive Training Camps"
+  ]
+},
+
+{
+  "careerName": "Fitness Trainer",
+  "steps": [
+    "Learn Human Anatomy and Fitness Science",
+    "Obtain Fitness Certifications",
+    "Develop Training Programs",
+    "Gain Practical Experience",
+    "Specialize in Fitness Areas"
+  ],
+  "skills": [
+    "Fitness Training",
+    "Nutrition Knowledge",
+    "Motivation",
+    "Communication",
+    "Health Assessment"
+  ],
+  "resources": [
+    "Fitness Certification Courses",
+    "Sports Science Programs",
+    "Health Workshops",
+    "Online Fitness Platforms"
+  ]
+},
+
+{
+  "careerName": "Sports Analyst",
+  "steps": [
+    "Study Sports and Data Analysis",
+    "Learn Statistical Tools",
+    "Analyze Player and Team Performance",
+    "Develop Reporting Skills",
+    "Work with Sports Organizations"
+  ],
+  "skills": [
+    "Statistics",
+    "Data Analysis",
+    "Sports Knowledge",
+    "Communication",
+    "Research"
+  ],
+  "resources": [
+    "Sports Analytics Courses",
+    "Data Science Platforms",
+    "Sports Research Papers",
+    "Online Certifications"
+  ]
+},
+
+{
+  "careerName": "Journalist",
+  "steps": [
+    "Study Journalism and Mass Communication",
+    "Learn News Reporting Techniques",
+    "Develop Research and Interview Skills",
+    "Gain Experience through Internships",
+    "Build a Professional Journalism Portfolio"
+  ],
+  "skills": [
+    "Writing",
+    "Research",
+    "Interviewing",
+    "Communication",
+    "Critical Thinking"
+  ],
+  "resources": [
+    "Journalism Courses",
+    "Media Workshops",
+    "News Industry Internships",
+    "Online Writing Platforms"
+  ]
+},
+
+{
+  "careerName": "News Reporter",
+  "steps": [
+    "Learn News Gathering Techniques",
+    "Develop Reporting and Presentation Skills",
+    "Understand Media Ethics",
+    "Practice Field Reporting",
+    "Work with News Organizations"
+  ],
+  "skills": [
+    "Reporting",
+    "Public Speaking",
+    "Research",
+    "Communication",
+    "Storytelling"
+  ],
+  "resources": [
+    "Journalism Schools",
+    "News Reporting Workshops",
+    "Media Training Programs",
+    "Online Journalism Courses"
+  ]
+},
+
+{
+  "careerName": "Radio Jockey",
+  "steps": [
+    "Improve Voice and Communication Skills",
+    "Learn Radio Production Techniques",
+    "Practice Anchoring and Storytelling",
+    "Understand Audience Engagement",
+    "Gain Experience in Radio Stations"
+  ],
+  "skills": [
+    "Voice Modulation",
+    "Communication",
+    "Creativity",
+    "Presentation",
+    "Entertainment"
+  ],
+  "resources": [
+    "Radio Jockey Courses",
+    "Voice Training Classes",
+    "Media Workshops",
+    "Radio Internships"
+  ]
+},
+
+{
+  "careerName": "Public Relations Manager",
+  "steps": [
+    "Study Public Relations and Communication",
+    "Learn Brand Management",
+    "Develop Media Relations Skills",
+    "Handle Public Campaigns",
+    "Manage Corporate Reputation"
+  ],
+  "skills": [
+    "Communication",
+    "Networking",
+    "Writing",
+    "Marketing",
+    "Crisis Management"
+  ],
+  "resources": [
+    "PR Courses",
+    "Communication Workshops",
+    "Marketing Programs",
+    "Industry Seminars"
+  ]
+},
+
+{
+  "careerName": "Digital Marketing Specialist",
+  "steps": [
+    "Learn Digital Marketing Fundamentals",
+    "Study SEO and SEM",
+    "Master Social Media Marketing",
+    "Analyze Campaign Performance",
+    "Manage Digital Marketing Projects"
+  ],
+  "skills": [
+    "SEO",
+    "Google Ads",
+    "Content Marketing",
+    "Analytics",
+    "Social Media Marketing"
+  ],
+  "resources": [
+    "Google Digital Garage",
+    "HubSpot Academy",
+    "Digital Marketing Courses",
+    "SEO Blogs"
+  ]
+},
+
+{
+  "careerName": "Social Media Manager",
+  "steps": [
+    "Learn Social Media Platforms",
+    "Understand Content Strategy",
+    "Create Engaging Campaigns",
+    "Analyze Audience Performance",
+    "Manage Brand Communities"
+  ],
+  "skills": [
+    "Content Creation",
+    "Social Media Strategy",
+    "Communication",
+    "Analytics",
+    "Creativity"
+  ],
+  "resources": [
+    "Meta Blueprint",
+    "HubSpot Courses",
+    "Social Media Marketing Tutorials",
+    "Content Creator Communities"
+  ]
+},
+
+{
+  "careerName": "YouTuber",
+  "steps": [
+    "Choose a Content Niche",
+    "Learn Video Production",
+    "Improve Editing and Storytelling",
+    "Build an Audience",
+    "Monetize and Grow the Channel"
+  ],
+  "skills": [
+    "Video Editing",
+    "Storytelling",
+    "Communication",
+    "Marketing",
+    "Creativity"
+  ],
+  "resources": [
+    "YouTube Creator Academy",
+    "Video Editing Courses",
+    "Content Strategy Guides",
+    "Online Creator Communities"
+  ]
+},
+
+{
+  "careerName": "Blogger",
+  "steps": [
+    "Choose a Blogging Topic",
+    "Learn Content Writing",
+    "Understand SEO Techniques",
+    "Build a Website",
+    "Grow Audience and Monetize Content"
+  ],
+  "skills": [
+    "Writing",
+    "SEO",
+    "Content Strategy",
+    "Research",
+    "Digital Marketing"
+  ],
+  "resources": [
+    "WordPress Tutorials",
+    "SEO Courses",
+    "Writing Workshops",
+    "Blogging Communities"
+  ]
+},
+
+{
+  "careerName": "Ethical Hacker",
+  "steps": [
+    "Learn Networking Fundamentals",
+    "Understand Operating Systems",
+    "Study Cyber Security Concepts",
+    "Practice Penetration Testing",
+    "Earn Security Certifications"
+  ],
+  "skills": [
+    "Network Security",
+    "Linux",
+    "Penetration Testing",
+    "Programming",
+    "Problem Solving"
+  ],
+  "resources": [
+    "TryHackMe",
+    "Hack The Box",
+    "Cyber Security Courses",
+    "CEH Preparation Materials"
+  ]
+},
+
+{
+  "careerName": "Blockchain Developer",
+  "steps": [
+    "Learn Programming Basics",
+    "Understand Blockchain Technology",
+    "Study Smart Contracts",
+    "Learn Blockchain Frameworks",
+    "Build Blockchain Applications"
+  ],
+  "skills": [
+    "Solidity",
+    "Ethereum",
+    "JavaScript",
+    "Cryptography",
+    "Smart Contracts"
+  ],
+  "resources": [
+    "Ethereum Documentation",
+    "Blockchain Courses",
+    "Solidity Tutorials",
+    "Developer Communities"
+  ]
+},
+
+{
+  "careerName": "Software Architect",
+  "steps": [
+    "Master Software Development Fundamentals",
+    "Learn System Design and Architecture",
+    "Understand Scalable Applications",
+    "Gain Experience Leading Development Teams",
+    "Design Enterprise-Level Software Systems"
+  ],
+  "skills": [
+    "System Design",
+    "Cloud Computing",
+    "Programming",
+    "Database Design",
+    "Leadership"
+  ],
+  "resources": [
+    "System Design Courses",
+    "AWS Architecture Training",
+    "Software Architecture Books",
+    "Technical Blogs"
+  ]
+},
+
+{
+  "careerName": "Product Manager",
+  "steps": [
+    "Understand Product Development",
+    "Learn Market Research Techniques",
+    "Study User Experience Principles",
+    "Develop Product Strategies",
+    "Manage Product Lifecycle"
+  ],
+  "skills": [
+    "Product Strategy",
+    "Communication",
+    "Market Research",
+    "Leadership",
+    "Data Analysis"
+  ],
+  "resources": [
+    "Product Management Courses",
+    "Coursera",
+    "Product School",
+    "Business Books"
+  ]
+},
+
+{
+  "careerName": "Project Manager",
+  "steps": [
+    "Learn Project Management Fundamentals",
+    "Understand Planning and Scheduling",
+    "Study Agile and Scrum Methods",
+    "Manage Teams and Resources",
+    "Earn Project Management Certifications"
+  ],
+  "skills": [
+    "Leadership",
+    "Agile",
+    "Scrum",
+    "Communication",
+    "Risk Management"
+  ],
+  "resources": [
+    "PMI Courses",
+    "Scrum Certifications",
+    "Project Management Books",
+    "Online Training Platforms"
+  ]
+},
+
+{
+  "careerName": "Business Consultant",
+  "steps": [
+    "Study Business Operations",
+    "Develop Analytical Skills",
+    "Learn Problem-Solving Frameworks",
+    "Gain Industry Experience",
+    "Provide Strategic Solutions to Companies"
+  ],
+  "skills": [
+    "Business Analysis",
+    "Communication",
+    "Strategy",
+    "Research",
+    "Presentation"
+  ],
+  "resources": [
+    "Business Courses",
+    "Consulting Case Studies",
+    "Management Books",
+    "Professional Workshops"
+  ]
+},
+
+{
+  "careerName": "Supply Chain Manager",
+  "steps": [
+    "Learn Supply Chain Fundamentals",
+    "Study Inventory Management",
+    "Understand Logistics Operations",
+    "Learn Supply Chain Technologies",
+    "Manage Global Supply Networks"
+  ],
+  "skills": [
+    "Logistics",
+    "Inventory Management",
+    "Data Analysis",
+    "Negotiation",
+    "Leadership"
+  ],
+  "resources": [
+    "Supply Chain Courses",
+    "APICS Certifications",
+    "Industry Reports",
+    "Management Programs"
+  ]
+},
+
+{
+  "careerName": "Logistics Manager",
+  "steps": [
+    "Learn Transportation Management",
+    "Understand Warehouse Operations",
+    "Study Supply Chain Systems",
+    "Optimize Delivery Processes",
+    "Lead Logistics Teams"
+  ],
+  "skills": [
+    "Transportation Management",
+    "Problem Solving",
+    "Organization",
+    "Data Analysis",
+    "Leadership"
+  ],
+  "resources": [
+    "Logistics Courses",
+    "Warehouse Training",
+    "Industry Certifications",
+    "Online Learning Platforms"
+  ]
+},
+
+{
+  "careerName": "Operations Manager",
+  "steps": [
+    "Learn Business Operations",
+    "Understand Process Improvement",
+    "Study Resource Management",
+    "Develop Leadership Skills",
+    "Manage Organizational Efficiency"
+  ],
+  "skills": [
+    "Leadership",
+    "Operations Planning",
+    "Problem Solving",
+    "Communication",
+    "Decision Making"
+  ],
+  "resources": [
+    "Operations Management Courses",
+    "MBA Resources",
+    "Business Books",
+    "Professional Certifications"
+  ]
+},
+
+{
+  "careerName": "Economist",
+  "steps": [
+    "Study Economics Fundamentals",
+    "Learn Economic Theories",
+    "Analyze Financial and Social Data",
+    "Conduct Economic Research",
+    "Specialize in Economic Fields"
+  ],
+  "skills": [
+    "Economic Analysis",
+    "Statistics",
+    "Research",
+    "Data Interpretation",
+    "Critical Thinking"
+  ],
+  "resources": [
+    "Economics Courses",
+    "Research Journals",
+    "Government Economic Reports",
+    "Academic Books"
+  ]
+},
+
+{
+  "careerName": "Statistician",
+  "steps": [
+    "Learn Mathematics and Statistics",
+    "Study Data Collection Methods",
+    "Master Statistical Software",
+    "Analyze Real-World Data",
+    "Apply Statistical Models"
+  ],
+  "skills": [
+    "Statistics",
+    "R Programming",
+    "Python",
+    "Data Analysis",
+    "Problem Solving"
+  ],
+  "resources": [
+    "Statistics Courses",
+    "Data Science Platforms",
+    "Research Papers",
+    "Programming Tutorials"
+  ]
+},
+
+{
+  "careerName": "Actuary",
+  "steps": [
+    "Study Mathematics and Finance",
+    "Prepare for Actuarial Exams",
+    "Learn Risk Assessment",
+    "Understand Insurance and Investments",
+    "Become a Certified Actuary"
+  ],
+  "skills": [
+    "Mathematics",
+    "Statistics",
+    "Financial Analysis",
+    "Risk Management",
+    "Problem Solving"
+  ],
+  "resources": [
+    "Actuarial Society Materials",
+    "Finance Courses",
+    "Statistics Books",
+    "Professional Training"
+  ]
+},
+
+{
+  "careerName": "Architect",
+  "steps": [
+    "Complete Architecture Education",
+    "Learn Architectural Design Principles",
+    "Master CAD and 3D Modeling Software",
+    "Work on Design Projects",
+    "Gain Professional Licensing"
+  ],
+  "skills": [
+    "AutoCAD",
+    "SketchUp",
+    "3D Visualization",
+    "Creativity",
+    "Project Planning"
+  ],
+  "resources": [
+    "Architecture Courses",
+    "AutoCAD Tutorials",
+    "Design Workshops",
+    "Architectural Journals"
+  ]
+},
+
+{
+  "careerName": "Urban Planner",
+  "steps": [
+    "Study Urban Planning Concepts",
+    "Learn City Development and Policies",
+    "Analyze Environmental Impact",
+    "Design Sustainable Communities",
+    "Work on Urban Development Projects"
+  ],
+  "skills": [
+    "GIS",
+    "Research",
+    "Planning",
+    "Data Analysis",
+    "Problem Solving"
+  ],
+  "resources": [
+    "Urban Planning Courses",
+    "GIS Training",
+    "Government Planning Resources",
+    "Research Journals"
+  ]
+},
+
+{
+  "careerName": "Marine Engineer",
+  "steps": [
+    "Complete Marine Engineering Education",
+    "Study Ship Systems",
+    "Learn Mechanical and Electrical Systems",
+    "Gain Onboard Training",
+    "Obtain Marine Certifications"
+  ],
+  "skills": [
+    "Ship Machinery",
+    "Mechanical Systems",
+    "Electrical Systems",
+    "Problem Solving",
+    "Safety Management"
+  ],
+  "resources": [
+    "Marine Engineering Courses",
+    "Maritime Academies",
+    "Technical Manuals",
+    "Marine Certifications"
+  ]
+},
+
+{
+  "careerName": "Geologist",
+  "steps": [
+    "Study Earth Science",
+    "Learn Geological Survey Methods",
+    "Conduct Field Research",
+    "Analyze Geological Data",
+    "Specialize in a Geology Field"
+  ],
+  "skills": [
+    "Geological Analysis",
+    "Research",
+    "GIS",
+    "Data Interpretation",
+    "Field Work"
+  ],
+  "resources": [
+    "Geology Courses",
+    "Research Journals",
+    "Field Training",
+    "Scientific Publications"
+  ]
+},
+
+{
+  "careerName": "Astronomer",
+  "steps": [
+    "Study Physics and Mathematics",
+    "Specialize in Astronomy",
+    "Learn Telescope and Observation Techniques",
+    "Conduct Space Research",
+    "Publish Scientific Findings"
+  ],
+  "skills": [
+    "Astrophysics",
+    "Mathematics",
+    "Research",
+    "Programming",
+    "Data Analysis"
+  ],
+  "resources": [
+    "NASA Learning Resources",
+    "Astronomy Courses",
+    "Research Papers",
+    "Observatory Training"
+  ]
+},
+
+{
+  "careerName": "Archaeologist",
+  "steps": [
+    "Study History and Archaeology",
+    "Learn Excavation Techniques",
+    "Conduct Field Research",
+    "Analyze Historical Artifacts",
+    "Publish Research Findings"
+  ],
+  "skills": [
+    "Historical Research",
+    "Excavation",
+    "Documentation",
+    "Analysis",
+    "Attention to Detail"
+  ],
+  "resources": [
+    "Archaeology Courses",
+    "Field Schools",
+    "History Journals",
+    "Museum Training"
+  ]
+},
+
+{
+  "careerName": "Librarian",
+  "steps": [
+    "Complete Library Science Education",
+    "Learn Information Management",
+    "Understand Digital Library Systems",
+    "Organize Knowledge Resources",
+    "Manage Library Services"
+  ],
+  "skills": [
+    "Information Management",
+    "Research",
+    "Organization",
+    "Communication",
+    "Technology Skills"
+  ],
+  "resources": [
+    "Library Science Courses",
+    "Information Management Training",
+    "Professional Associations",
+    "Digital Library Resources"
+  ]
+},
+
+{
+  "careerName": "Translator",
+  "steps": [
+    "Master Multiple Languages",
+    "Develop Translation Techniques",
+    "Understand Cultural Context",
+    "Practice Professional Translation",
+    "Build a Translation Portfolio"
+  ],
+  "skills": [
+    "Language Proficiency",
+    "Writing",
+    "Communication",
+    "Cultural Understanding",
+    "Research"
+  ],
+  "resources": [
+    "Language Courses",
+    "Translation Certifications",
+    "Writing Workshops",
+    "Online Language Platforms"
+  ]
+},
+
+{
+  "careerName": "Interpreter",
+  "steps": [
+    "Become Fluent in Multiple Languages",
+    "Learn Real-Time Interpretation Techniques",
+    "Practice Listening and Communication",
+    "Gain Professional Experience",
+    "Specialize in an Industry"
+  ],
+  "skills": [
+    "Listening",
+    "Communication",
+    "Language Fluency",
+    "Memory",
+    "Cultural Awareness"
+  ],
+  "resources": [
+    "Interpreter Training Programs",
+    "Language Institutes",
+    "Communication Courses",
+    "Professional Certifications"
+  ]
+},
+
+{
+  "careerName": "Psychotherapist",
+  "steps": [
+    "Study Psychology",
+    "Complete Advanced Counseling Education",
+    "Gain Clinical Training",
+    "Learn Therapy Techniques",
+    "Obtain Professional Certification"
+  ],
+  "skills": [
+    "Counseling",
+    "Empathy",
+    "Communication",
+    "Mental Health Assessment",
+    "Critical Thinking"
+  ],
+  "resources": [
+    "Psychology Courses",
+    "Clinical Training",
+    "Therapy Workshops",
+    "Mental Health Research"
+  ]
+},
+{
+  "careerName": "Social Worker",
+  "steps": [
+    "Complete a Degree in Social Work",
+    "Understand Community Issues",
+    "Learn Counseling Techniques",
+    "Work with NGOs or Government Programs",
+    "Develop Community Development Projects"
+  ],
+  "skills": [
+    "Communication",
+    "Empathy",
+    "Counseling",
+    "Problem Solving",
+    "Community Management"
+  ],
+  "resources": [
+    "Social Work Courses",
+    "NGO Internships",
+    "Community Development Workshops",
+    "Government Social Programs"
+  ]
+},
+
+{
+  "careerName": "NGO Manager",
+  "steps": [
+    "Study Social Development",
+    "Learn Nonprofit Management",
+    "Understand Fundraising Methods",
+    "Manage Social Projects",
+    "Lead Community Initiatives"
+  ],
+  "skills": [
+    "Leadership",
+    "Project Management",
+    "Fundraising",
+    "Communication",
+    "Team Management"
+  ],
+  "resources": [
+    "NGO Management Courses",
+    "Leadership Workshops",
+    "Social Development Programs",
+    "Nonprofit Organizations"
+  ]
+},
+
+{
+  "careerName": "Counselor",
+  "steps": [
+    "Study Psychology or Counseling",
+    "Learn Therapy and Guidance Methods",
+    "Gain Practical Experience",
+    "Develop Communication Skills",
+    "Obtain Professional Certifications"
+  ],
+  "skills": [
+    "Counseling",
+    "Empathy",
+    "Communication",
+    "Observation",
+    "Problem Solving"
+  ],
+  "resources": [
+    "Counseling Courses",
+    "Psychology Books",
+    "Clinical Training",
+    "Professional Workshops"
+  ]
+},
+
+{
+  "careerName": "Career Counselor",
+  "steps": [
+    "Study Career Guidance and Psychology",
+    "Understand Different Career Fields",
+    "Develop Assessment Techniques",
+    "Guide Students and Professionals",
+    "Stay Updated with Industry Trends"
+  ],
+  "skills": [
+    "Career Assessment",
+    "Communication",
+    "Counseling",
+    "Research",
+    "Decision Making"
+  ],
+  "resources": [
+    "Career Counseling Courses",
+    "Psychology Programs",
+    "Career Development Workshops",
+    "Professional Certifications"
+  ]
+},
+
+{
+  "careerName": "Politician",
+  "steps": [
+    "Study Political Science and Governance",
+    "Understand Public Policies",
+    "Develop Leadership Skills",
+    "Participate in Community Activities",
+    "Build Public Service Experience"
+  ],
+  "skills": [
+    "Leadership",
+    "Public Speaking",
+    "Negotiation",
+    "Decision Making",
+    "Communication"
+  ],
+  "resources": [
+    "Political Science Courses",
+    "Public Administration Programs",
+    "Government Publications",
+    "Leadership Training"
+  ]
+},
+
+{
+  "careerName": "Diplomat",
+  "steps": [
+    "Study International Relations",
+    "Learn Foreign Policies",
+    "Develop Language and Negotiation Skills",
+    "Prepare for Foreign Service Exams",
+    "Gain International Experience"
+  ],
+  "skills": [
+    "Negotiation",
+    "Communication",
+    "Foreign Languages",
+    "Cultural Awareness",
+    "Problem Solving"
+  ],
+  "resources": [
+    "International Relations Courses",
+    "Foreign Service Preparation",
+    "Language Programs",
+    "Global Affairs Journals"
+  ]
+},
+
+{
+  "careerName": "Actor",
+  "steps": [
+    "Learn Acting Fundamentals",
+    "Practice Voice and Body Expression",
+    "Join Acting Workshops",
+    "Participate in Theatre and Films",
+    "Build a Professional Portfolio"
+  ],
+  "skills": [
+    "Acting",
+    "Creativity",
+    "Communication",
+    "Confidence",
+    "Emotional Expression"
+  ],
+  "resources": [
+    "Acting Schools",
+    "Theatre Workshops",
+    "Online Acting Courses",
+    "Film Industry Training"
+  ]
+},
+
+{
+  "careerName": "Singer",
+  "steps": [
+    "Learn Vocal Techniques",
+    "Practice Music Regularly",
+    "Study Music Theory",
+    "Perform in Public Events",
+    "Create Professional Music Recordings"
+  ],
+  "skills": [
+    "Vocal Skills",
+    "Music Theory",
+    "Performance",
+    "Creativity",
+    "Discipline"
+  ],
+  "resources": [
+    "Music Academies",
+    "Vocal Training",
+    "Online Music Courses",
+    "Professional Workshops"
+  ]
+},
+
+{
+  "careerName": "Music Director",
+  "steps": [
+    "Study Music Composition",
+    "Learn Different Music Styles",
+    "Master Music Production Software",
+    "Compose Original Music",
+    "Collaborate with Artists and Studios"
+  ],
+  "skills": [
+    "Music Composition",
+    "Sound Production",
+    "Creativity",
+    "Instrument Knowledge",
+    "Leadership"
+  ],
+  "resources": [
+    "Music Production Courses",
+    "Audio Engineering Classes",
+    "Digital Audio Workstation Tutorials",
+    "Music Workshops"
+  ]
+},
+
+{
+  "careerName": "Dancer",
+  "steps": [
+    "Learn Dance Techniques",
+    "Practice Regularly",
+    "Study Different Dance Forms",
+    "Perform in Competitions and Events",
+    "Build a Professional Portfolio"
+  ],
+  "skills": [
+    "Dance",
+    "Physical Fitness",
+    "Creativity",
+    "Discipline",
+    "Performance"
+  ],
+  "resources": [
+    "Dance Academies",
+    "Online Dance Classes",
+    "Workshops",
+    "Professional Training"
+  ]
+},
+{
+  "careerName": "Choreographer",
+  "steps": [
+    "Learn Different Dance Styles",
+    "Understand Music and Rhythm",
+    "Create Dance Compositions",
+    "Work with Performers",
+    "Build a Professional Portfolio"
+  ],
+  "skills": [
+    "Dance",
+    "Creativity",
+    "Leadership",
+    "Music Sense",
+    "Communication"
+  ],
+  "resources": [
+    "Dance Academies",
+    "Professional Workshops",
+    "Online Dance Courses",
+    "Performance Training"
+  ]
+},
+
+{
+  "careerName": "Script Writer",
+  "steps": [
+    "Study Storytelling Techniques",
+    "Learn Screenplay Format",
+    "Write Short Scripts",
+    "Understand Film and Media Production",
+    "Build a Writing Portfolio"
+  ],
+  "skills": [
+    "Creative Writing",
+    "Storytelling",
+    "Research",
+    "Communication",
+    "Imagination"
+  ],
+  "resources": [
+    "Screenwriting Courses",
+    "Writing Workshops",
+    "Film Scripts",
+    "Online Writing Platforms"
+  ]
+},
+
+{
+  "careerName": "Film Producer",
+  "steps": [
+    "Understand Film Production Process",
+    "Learn Budget Management",
+    "Coordinate Production Teams",
+    "Manage Film Projects",
+    "Build Industry Connections"
+  ],
+  "skills": [
+    "Management",
+    "Leadership",
+    "Budget Planning",
+    "Communication",
+    "Decision Making"
+  ],
+  "resources": [
+    "Film Production Courses",
+    "Film Schools",
+    "Industry Workshops",
+    "Production Training"
+  ]
+},
+
+{
+  "careerName": "Director of Photography",
+  "steps": [
+    "Learn Camera Operations",
+    "Study Lighting Techniques",
+    "Understand Cinematography",
+    "Practice Video Production",
+    "Create Professional Showreels"
+  ],
+  "skills": [
+    "Camera Handling",
+    "Lighting",
+    "Cinematography",
+    "Creativity",
+    "Editing"
+  ],
+  "resources": [
+    "Cinematography Courses",
+    "Camera Workshops",
+    "Film Schools",
+    "YouTube Tutorials"
+  ]
+},
+
+{
+  "careerName": "Sound Engineer",
+  "steps": [
+    "Learn Audio Fundamentals",
+    "Study Recording Techniques",
+    "Master Sound Editing Software",
+    "Work on Audio Projects",
+    "Specialize in Sound Production"
+  ],
+  "skills": [
+    "Audio Editing",
+    "Mixing",
+    "Recording",
+    "Music Technology",
+    "Problem Solving"
+  ],
+  "resources": [
+    "Audio Engineering Courses",
+    "Sound Production Tutorials",
+    "Studio Training",
+    "Music Technology Books"
+  ]
+},
+
+{
+  "careerName": "Makeup Artist",
+  "steps": [
+    "Learn Makeup Fundamentals",
+    "Study Skin Types and Cosmetics",
+    "Practice Different Makeup Styles",
+    "Build Client Experience",
+    "Create a Professional Portfolio"
+  ],
+  "skills": [
+    "Makeup Techniques",
+    "Creativity",
+    "Communication",
+    "Beauty Knowledge",
+    "Attention to Detail"
+  ],
+  "resources": [
+    "Beauty Academies",
+    "Makeup Workshops",
+    "Online Tutorials",
+    "Professional Certifications"
+  ]
+},
+
+{
+  "careerName": "Beauty Therapist",
+  "steps": [
+    "Study Beauty and Skincare",
+    "Learn Therapy Techniques",
+    "Practice Beauty Treatments",
+    "Gain Customer Experience",
+    "Earn Professional Certifications"
+  ],
+  "skills": [
+    "Skincare",
+    "Customer Service",
+    "Communication",
+    "Beauty Treatments",
+    "Professionalism"
+  ],
+  "resources": [
+    "Beauty Therapy Courses",
+    "Spa Training",
+    "Professional Workshops",
+    "Certification Programs"
+  ]
+},
+
+{
+  "careerName": "Nutritionist",
+  "steps": [
+    "Study Nutrition Science",
+    "Understand Human Health",
+    "Learn Diet Planning",
+    "Provide Nutritional Guidance",
+    "Stay Updated with Research"
+  ],
+  "skills": [
+    "Nutrition Knowledge",
+    "Communication",
+    "Research",
+    "Diet Planning",
+    "Health Assessment"
+  ],
+  "resources": [
+    "Nutrition Courses",
+    "Health Journals",
+    "Clinical Training",
+    "Professional Certifications"
+  ]
+},
+{
+  "careerName": "Dietitian",
+  "steps": [
+    "Complete a Degree in Dietetics or Nutrition",
+    "Study Human Physiology and Food Science",
+    "Learn Medical Nutrition Therapy",
+    "Gain Clinical Experience",
+    "Become a Certified Dietitian"
+  ],
+  "skills": [
+    "Diet Planning",
+    "Nutrition Science",
+    "Communication",
+    "Patient Counseling",
+    "Research"
+  ],
+  "resources": [
+    "Nutrition Courses",
+    "Clinical Internships",
+    "Medical Journals",
+    "Professional Certifications"
+  ]
+},
+
+{
+  "careerName": "Yoga Trainer",
+  "steps": [
+    "Learn Yoga Fundamentals",
+    "Study Human Anatomy",
+    "Complete Yoga Teacher Training",
+    "Practice Different Yoga Styles",
+    "Build Professional Teaching Experience"
+  ],
+  "skills": [
+    "Yoga Techniques",
+    "Meditation",
+    "Communication",
+    "Fitness Knowledge",
+    "Patience"
+  ],
+  "resources": [
+    "Yoga Certification Courses",
+    "Yoga Institutes",
+    "Online Yoga Classes",
+    "Wellness Workshops"
+  ]
+},
+
+{
+  "careerName": "Event Planner",
+  "steps": [
+    "Learn Event Management Principles",
+    "Develop Planning and Organization Skills",
+    "Manage Budgets and Vendors",
+    "Coordinate Events",
+    "Build a Professional Portfolio"
+  ],
+  "skills": [
+    "Event Planning",
+    "Communication",
+    "Negotiation",
+    "Creativity",
+    "Time Management"
+  ],
+  "resources": [
+    "Event Management Courses",
+    "Industry Workshops",
+    "Internship Programs",
+    "Business Training"
+  ]
+},
+
+{
+  "careerName": "Luxury Brand Manager",
+  "steps": [
+    "Study Marketing and Brand Management",
+    "Understand Luxury Consumer Behavior",
+    "Learn Product Positioning",
+    "Develop Brand Strategies",
+    "Manage Premium Brand Campaigns"
+  ],
+  "skills": [
+    "Brand Management",
+    "Marketing",
+    "Communication",
+    "Creativity",
+    "Market Analysis"
+  ],
+  "resources": [
+    "Luxury Brand Courses",
+    "Marketing Certifications",
+    "Business Schools",
+    "Industry Case Studies"
+  ]
+},
+
+{
+  "careerName": "E-commerce Manager",
+  "steps": [
+    "Learn E-commerce Fundamentals",
+    "Understand Online Marketplaces",
+    "Study Digital Marketing",
+    "Analyze Customer Data",
+    "Manage Online Business Operations"
+  ],
+  "skills": [
+    "Digital Marketing",
+    "SEO",
+    "Analytics",
+    "Business Management",
+    "Customer Experience"
+  ],
+  "resources": [
+    "E-commerce Courses",
+    "Google Digital Garage",
+    "Shopify Academy",
+    "Marketing Blogs"
+  ]
+},
+
+{
+  "careerName": "Retail Manager",
+  "steps": [
+    "Understand Retail Operations",
+    "Learn Inventory Management",
+    "Develop Customer Service Skills",
+    "Manage Sales Teams",
+    "Improve Store Performance"
+  ],
+  "skills": [
+    "Retail Management",
+    "Leadership",
+    "Sales",
+    "Customer Service",
+    "Problem Solving"
+  ],
+  "resources": [
+    "Retail Management Courses",
+    "Business Workshops",
+    "Sales Training Programs",
+    "Industry Certifications"
+  ]
+},
+
+{
+  "careerName": "Real Estate Manager",
+  "steps": [
+    "Study Real Estate Market Fundamentals",
+    "Learn Property Management",
+    "Understand Real Estate Laws",
+    "Develop Sales and Negotiation Skills",
+    "Manage Real Estate Projects"
+  ],
+  "skills": [
+    "Property Management",
+    "Negotiation",
+    "Sales",
+    "Market Research",
+    "Communication"
+  ],
+  "resources": [
+    "Real Estate Courses",
+    "Property Management Training",
+    "Market Analysis Reports",
+    "Professional Certifications"
+  ]
+},
+
+{
+  "careerName": "Insurance Advisor",
+  "steps": [
+    "Study Insurance Products",
+    "Understand Risk Management",
+    "Learn Customer Relationship Skills",
+    "Obtain Insurance Certifications",
+    "Build a Client Portfolio"
+  ],
+  "skills": [
+    "Insurance Knowledge",
+    "Sales",
+    "Communication",
+    "Financial Planning",
+    "Customer Service"
+  ],
+  "resources": [
+    "Insurance Certification Courses",
+    "Finance Training",
+    "Industry Seminars",
+    "Professional Development Programs"
+  ]
+},
+
+{
+  "careerName": "Tax Consultant",
+  "steps": [
+    "Study Taxation Laws",
+    "Learn Financial Regulations",
+    "Develop Tax Planning Skills",
+    "Work with Clients and Businesses",
+    "Stay Updated with Tax Policies"
+  ],
+  "skills": [
+    "Tax Planning",
+    "Accounting",
+    "Financial Analysis",
+    "Research",
+    "Problem Solving"
+  ],
+  "resources": [
+    "Taxation Courses",
+    "Government Tax Portals",
+    "Finance Books",
+    "Professional Certifications"
+  ]
+},
+
+{
+  "careerName": "Auditor",
+  "steps": [
+    "Study Accounting and Auditing Principles",
+    "Learn Financial Reporting Standards",
+    "Conduct Financial Reviews",
+    "Identify Risks and Improvements",
+    "Obtain Professional Certifications"
+  ],
+  "skills": [
+    "Auditing",
+    "Accounting",
+    "Attention to Detail",
+    "Financial Analysis",
+    "Ethics"
+  ],
+  "resources": [
+    "Auditing Courses",
+    "CA/CPA Resources",
+    "Finance Journals",
+    "Professional Training"
+  ]
+},
+{
+  "careerName": "Data Engineer",
+  "steps": [
+    "Learn Programming and Database Fundamentals",
+    "Master SQL and Data Warehousing",
+    "Study Big Data Technologies",
+    "Build Data Pipelines",
+    "Work with Cloud Data Platforms"
+  ],
+  "skills": [
+    "Python",
+    "SQL",
+    "Apache Spark",
+    "ETL Pipelines",
+    "Cloud Computing"
+  ],
+  "resources": [
+    "Google Data Engineering Courses",
+    "AWS Data Engineering Training",
+    "Databricks Learning",
+    "Data Engineering Books"
+  ]
+},
+
+{
+  "careerName": "AI Research Scientist",
+  "steps": [
+    "Master Mathematics and Statistics",
+    "Learn Advanced Machine Learning",
+    "Study Deep Learning and AI Models",
+    "Conduct Research Projects",
+    "Publish Research Papers"
+  ],
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "Deep Learning",
+    "Research",
+    "Mathematics"
+  ],
+  "resources": [
+    "DeepLearning.AI Courses",
+    "Research Papers",
+    "AI Conferences",
+    "Open Source AI Projects"
+  ]
+},
+
+{
+  "careerName": "Cloud Architect",
+  "steps": [
+    "Learn Networking and Cloud Basics",
+    "Master AWS, Azure or Google Cloud",
+    "Study System Architecture",
+    "Learn Security Best Practices",
+    "Design Scalable Cloud Solutions"
+  ],
+  "skills": [
+    "AWS",
+    "Azure",
+    "Cloud Security",
+    "System Design",
+    "DevOps"
+  ],
+  "resources": [
+    "AWS Architect Certification",
+    "Microsoft Learn",
+    "Google Cloud Training",
+    "Cloud Architecture Books"
+  ]
+},
+
+{
+  "careerName": "Cyber Security Engineer",
+  "steps": [
+    "Understand Computer Networks",
+    "Learn Security Concepts",
+    "Practice Ethical Hacking",
+    "Study Security Tools",
+    "Gain Industry Certifications"
+  ],
+  "skills": [
+    "Network Security",
+    "Linux",
+    "Penetration Testing",
+    "Security Monitoring",
+    "Programming"
+  ],
+  "resources": [
+    "CompTIA Security+",
+    "TryHackMe",
+    "Hack The Box",
+    "Cyber Security Certifications"
+  ]
+},
+
+{
+  "careerName": "Ethical AI Specialist",
+  "steps": [
+    "Study Artificial Intelligence",
+    "Understand AI Ethics and Regulations",
+    "Learn Responsible AI Practices",
+    "Analyze AI Risks and Bias",
+    "Develop Ethical AI Frameworks"
+  ],
+  "skills": [
+    "AI Ethics",
+    "Machine Learning",
+    "Data Analysis",
+    "Research",
+    "Critical Thinking"
+  ],
+  "resources": [
+    "AI Ethics Courses",
+    "Responsible AI Guidelines",
+    "Research Papers",
+    "AI Conferences"
+  ]
+},
+
+{
+  "careerName": "Robotics Technician",
+  "steps": [
+    "Learn Robotics Fundamentals",
+    "Study Electronics and Mechanical Systems",
+    "Work with Robotic Equipment",
+    "Learn Maintenance and Troubleshooting",
+    "Gain Industrial Experience"
+  ],
+  "skills": [
+    "Electronics",
+    "Mechanical Systems",
+    "Robotics",
+    "Programming",
+    "Problem Solving"
+  ],
+  "resources": [
+    "Robotics Courses",
+    "Technical Training",
+    "Arduino Tutorials",
+    "Industrial Robotics Programs"
+  ]
+},
+
+{
+  "careerName": "Technology Consultant",
+  "steps": [
+    "Build Strong IT Knowledge",
+    "Understand Business Requirements",
+    "Learn Technology Solutions",
+    "Develop Consulting and Communication Skills",
+    "Advise Organizations on Digital Transformation"
+  ],
+  "skills": [
+    "Information Technology",
+    "Business Analysis",
+    "Communication",
+    "Problem Solving",
+    "Project Management"
+  ],
+  "resources": [
+    "Technology Consulting Courses",
+    "Business Analysis Certifications",
+    "Cloud Certifications",
+    "Industry Case Studies"
+  ]
+},
+{
+    "careerName": "Bank Manager",
+    "steps": [
+      "Complete a degree in Commerce, Finance, or Management",
+      "Prepare for banking examinations",
+      "Join a bank as a probationary officer",
+      "Gain experience in banking operations",
+      "Progress to managerial positions"
+    ],
+    "skills": ["Leadership", "Finance", "Communication", "Decision Making"],
+    "resources": ["RBI Resources", "Banking Courses", "Finance Books"]
+  },
+
+  {
+    "careerName": "Company Secretary",
+    "steps": [
+      "Complete higher secondary education",
+      "Register for CS foundation program",
+      "Complete executive and professional levels",
+      "Gain practical training",
+      "Work in corporate governance roles"
+    ],
+    "skills": ["Corporate Law", "Compliance", "Communication", "Management"],
+    "resources": ["ICSI Study Materials", "Corporate Law Books", "Online Courses"]
+  },
+
+  {
+    "careerName": "Lab Technician",
+    "steps": [
+      "Complete science education",
+      "Earn a diploma or degree in laboratory technology",
+      "Learn laboratory procedures",
+      "Gain hospital or diagnostic lab experience",
+      "Specialize in advanced laboratory techniques"
+    ],
+    "skills": ["Laboratory Skills", "Attention to Detail", "Data Analysis", "Medical Knowledge"],
+    "resources": ["Medical Lab Courses", "Hospital Training", "Science Journals"]
+  },
+
+  {
+    "careerName": "Veterinary Doctor",
+    "steps": [
+      "Complete biology stream in school",
+      "Earn a veterinary medicine degree",
+      "Complete internships and clinical training",
+      "Gain experience in animal healthcare",
+      "Specialize in veterinary fields"
+    ],
+    "skills": ["Animal Care", "Medical Knowledge", "Diagnosis", "Communication"],
+    "resources": ["Veterinary Colleges", "Animal Science Books", "Clinical Training"]
+  },
+
+  {
+    "careerName": "Risk Analyst",
+    "steps": [
+      "Complete a degree in finance or economics",
+      "Learn risk assessment methods",
+      "Develop analytical and financial skills",
+      "Gain experience in risk management",
+      "Obtain professional certifications"
+    ],
+    "skills": ["Risk Assessment", "Analytics", "Finance", "Problem Solving"],
+    "resources": ["CFA Materials", "Risk Management Courses", "Financial Journals"]
+  },
+
+  {
+    "careerName": "Product Designer",
+    "steps": [
+      "Learn design principles",
+      "Master design software like Figma",
+      "Study user experience and research",
+      "Build a strong portfolio",
+      "Apply for product design roles"
+    ],
+    "skills": ["UI/UX", "Figma", "Creativity", "User Research"],
+    "resources": ["Figma Academy", "UX Courses", "Design Communities"]
+  },
+
+  {
+    "careerName": "Motion Designer",
+    "steps": [
+      "Learn animation fundamentals",
+      "Master After Effects and animation tools",
+      "Create motion graphics projects",
+      "Build a portfolio",
+      "Apply for creative roles"
+    ],
+    "skills": ["Animation", "After Effects", "Creativity", "Storytelling"],
+    "resources": ["Adobe Tutorials", "Animation Courses", "YouTube Tutorials"]
+  },
+
+  {
+    "careerName": "Web Designer",
+    "steps": [
+      "Learn HTML, CSS and design basics",
+      "Study responsive design",
+      "Master design tools",
+      "Create websites and portfolio",
+      "Work on real client projects"
+    ],
+    "skills": ["HTML", "CSS", "Figma", "Creativity"],
+    "resources": ["freeCodeCamp", "MDN Docs", "Web Design Courses"]
+  },
+
+  {
+    "careerName": "Industrial Designer",
+    "steps": [
+      "Study industrial design principles",
+      "Learn CAD software",
+      "Understand materials and manufacturing",
+      "Create product prototypes",
+      "Build a professional portfolio"
+    ],
+    "skills": ["CAD", "Creativity", "Prototyping", "Problem Solving"],
+    "resources": ["CAD Courses", "Design Books", "Online Tutorials"]
+  },
+
+  {
+    "careerName": "Principal",
+    "steps": [
+      "Complete a teaching degree",
+      "Gain classroom teaching experience",
+      "Develop leadership abilities",
+      "Study educational administration",
+      "Apply for principal positions"
+    ],
+    "skills": ["Leadership", "Management", "Communication", "Planning"],
+    "resources": ["Education Management Courses", "Leadership Books", "Teacher Training"]
+  },
+
+  {
+    "careerName": "Education Consultant",
+    "steps": [
+      "Earn an education related degree",
+      "Understand educational systems",
+      "Develop counseling skills",
+      "Gain consulting experience",
+      "Guide students and institutions"
+    ],
+    "skills": ["Counseling", "Communication", "Research", "Planning"],
+    "resources": ["Education Courses", "Counseling Workshops", "Research Articles"]
+  },
+
+  {
+    "careerName": "Academic Coordinator",
+    "steps": [
+      "Complete an education degree",
+      "Gain teaching experience",
+      "Learn curriculum planning",
+      "Manage academic activities",
+      "Advance into coordination roles"
+    ],
+    "skills": ["Organization", "Leadership", "Curriculum Planning", "Communication"],
+    "resources": ["Education Training", "Management Courses", "Academic Workshops"]
+  },
+
+  {
+    "careerName": "Corporate Lawyer",
+    "steps": [
+      "Complete a law degree",
+      "Learn corporate and business laws",
+      "Complete legal internships",
+      "Gain experience in law firms",
+      "Specialize in corporate legal matters"
+    ],
+    "skills": ["Corporate Law", "Negotiation", "Research", "Communication"],
+    "resources": ["Law Books", "Legal Internships", "Online Law Courses"]
+  },
+
+  {
+    "careerName": "Legal Advisor",
+    "steps": [
+      "Complete legal education",
+      "Develop legal research skills",
+      "Gain practical legal experience",
+      "Understand regulations and compliance",
+      "Work as a legal consultant"
+    ],
+    "skills": ["Legal Knowledge", "Research", "Analysis", "Communication"],
+    "resources": ["Legal Courses", "Law Journals", "Case Studies"]
+  },
+
+  {
+    "careerName": "Legal Researcher",
+    "steps": [
+      "Study law and legal systems",
+      "Learn research methodologies",
+      "Analyze legal documents",
+      "Develop writing skills",
+      "Work in research institutions"
+    ],
+    "skills": ["Research", "Writing", "Critical Thinking", "Law"],
+    "resources": ["Legal Databases", "Research Papers", "Law Libraries"]
+  },
+
+  {
+    "careerName": "Digital Marketer",
+    "steps": [
+      "Learn digital marketing basics",
+      "Understand SEO and social media marketing",
+      "Run marketing campaigns",
+      "Analyze campaign performance",
+      "Specialize in digital channels"
+    ],
+    "skills": ["SEO", "Analytics", "Content Marketing", "Advertising"],
+    "resources": ["Google Digital Garage", "HubSpot Academy", "Marketing Blogs"]
+  },
+
+  {
+    "careerName": "SEO",
+    "steps": [
+      "Learn search engine fundamentals",
+      "Understand keyword research",
+      "Practice on-page and off-page SEO",
+      "Use SEO analysis tools",
+      "Optimize real websites"
+    ],
+    "skills": ["Keyword Research", "Google Analytics", "Content Optimization", "Technical SEO"],
+    "resources": ["Google SEO Guide", "Moz Blog", "SEO Courses"]
+  },
+
+  {
+    "careerName": "Content Writer",
+    "steps": [
+      "Improve writing skills",
+      "Learn content strategy",
+      "Understand SEO writing",
+      "Build a writing portfolio",
+      "Work with companies or clients"
+    ],
+    "skills": ["Writing", "SEO", "Research", "Creativity"],
+    "resources": ["Writing Courses", "SEO Blogs", "Content Marketing Guides"]
+  },
+
+  {
+    "careerName": "Brand Manager",
+    "steps": [
+      "Study marketing and business",
+      "Learn brand strategy",
+      "Understand consumer behavior",
+      "Work on marketing campaigns",
+      "Manage brand growth"
+    ],
+    "skills": ["Marketing", "Communication", "Strategy", "Leadership"],
+    "resources": ["Marketing Courses", "Branding Books", "Business Articles"]
+  },
+
+  {
+    "careerName": "Restaurant Manager",
+    "steps": [
+      "Study hospitality management",
+      "Gain restaurant experience",
+      "Learn operations and customer service",
+      "Manage staff and finances",
+      "Advance into management positions"
+    ],
+    "skills": ["Leadership", "Customer Service", "Management", "Finance"],
+    "resources": ["Hospitality Courses", "Restaurant Management Books", "Training Programs"]
+  },
+
+  {
+    "careerName": "IAS Officer",
+    "steps": [
+      "Complete graduation",
+      "Prepare for UPSC Civil Services Examination",
+      "Pass preliminary and mains exams",
+      "Clear the interview stage",
+      "Complete training at LBSNAA"
+    ],
+    "skills": ["General Knowledge", "Leadership", "Decision Making", "Administration"],
+    "resources": ["NCERT Books", "UPSC Materials", "Current Affairs Sources"]
+  },
+
+  {
+    "careerName": "IPS Officer",
+    "steps": [
+      "Complete graduation",
+      "Prepare for UPSC Civil Services Examination",
+      "Clear all UPSC stages",
+      "Receive police training",
+      "Serve in police administration"
+    ],
+    "skills": ["Leadership", "Physical Fitness", "Decision Making", "Law Knowledge"],
+    "resources": ["UPSC Books", "Current Affairs", "Police Training Materials"]
+  },
+
+  {
+    "careerName": "IFS Officer",
+    "steps": [
+      "Complete graduation",
+      "Prepare for UPSC examination",
+      "Pass civil service stages",
+      "Learn international relations",
+      "Represent India globally"
+    ],
+    "skills": ["Diplomacy", "Communication", "International Relations", "Leadership"],
+    "resources": ["UPSC Materials", "International Affairs Books", "Government Resources"]
+  },
+
+  {
+    "careerName": "Railway Officer",
+    "steps": [
+      "Complete graduation",
+      "Prepare for railway recruitment exams",
+      "Develop technical and administrative skills",
+      "Complete training",
+      "Join railway services"
+    ],
+    "skills": ["Management", "Technical Knowledge", "Leadership", "Problem Solving"],
+    "resources": ["RRB Study Materials", "Government Exam Courses", "Mock Tests"]
+  },
+
+  {
+    "careerName": "Bank PO",
+    "steps": [
+      "Complete graduation",
+      "Prepare for banking examinations",
+      "Pass IBPS or SBI PO exams",
+      "Complete training",
+      "Develop a banking career"
+    ],
+    "skills": ["Finance", "Reasoning", "Communication", "Quantitative Aptitude"],
+    "resources": ["IBPS Books", "Banking Courses", "Mock Tests"]
+  },
+  {
+  "careerName": "Agronomist",
+  "steps": [
+    "Complete a degree in Agriculture",
+    "Study crop science and soil management",
+    "Gain field experience through internships",
+    "Learn modern farming technologies",
+    "Work as an agriculture expert or researcher"
+  ],
+  "skills": [
+    "Crop Management",
+    "Research",
+    "Problem Solving",
+    "Analytical Skills"
+  ],
+  "resources": [
+    "Agriculture Courses",
+    "ICAR Study Materials",
+    "Research Journals"
+  ]
+},
+
+{
+  "careerName": "Agricultural Officer",
+  "steps": [
+    "Complete a degree in Agriculture",
+    "Prepare for government agriculture exams",
+    "Learn agricultural policies and schemes",
+    "Gain knowledge of farming techniques",
+    "Serve in agricultural development departments"
+  ],
+  "skills": [
+    "Agriculture Knowledge",
+    "Communication",
+    "Leadership",
+    "Planning"
+  ],
+  "resources": [
+    "Government Exam Books",
+    "Agriculture Training",
+    "ICAR Resources"
+  ]
+},
+
+{
+  "careerName": "Horticulturist",
+  "steps": [
+    "Earn a degree in Horticulture or Agriculture",
+    "Study plant cultivation and management",
+    "Learn greenhouse and landscaping techniques",
+    "Gain practical gardening experience",
+    "Specialize in fruits, vegetables, or ornamental plants"
+  ],
+  "skills": [
+    "Plant Science",
+    "Crop Management",
+    "Creativity",
+    "Observation"
+  ],
+  "resources": [
+    "Horticulture Courses",
+    "Plant Science Books",
+    "Agricultural Research"
+  ]
+},
+
+{
+  "careerName": "News Anchor",
+  "steps": [
+    "Complete a degree in Journalism or Mass Communication",
+    "Develop public speaking and presentation skills",
+    "Learn reporting and media ethics",
+    "Gain experience through internships",
+    "Build a career in television or digital media"
+  ],
+  "skills": [
+    "Communication",
+    "Public Speaking",
+    "Research",
+    "Confidence"
+  ],
+  "resources": [
+    "Journalism Courses",
+    "Media Workshops",
+    "Communication Training"
+  ]
+},
+
+{
+  "careerName": "Content Producer",
+  "steps": [
+    "Learn content creation and storytelling",
+    "Master video, audio, or digital production tools",
+    "Build creative projects and portfolios",
+    "Understand audience engagement strategies",
+    "Work in media or digital platforms"
+  ],
+  "skills": [
+    "Creativity",
+    "Video Editing",
+    "Storytelling",
+    "Content Strategy"
+  ],
+  "resources": [
+    "Video Production Courses",
+    "Adobe Tutorials",
+    "Digital Media Courses"
+  ]
+},
+
+{
+  "careerName": "Sports Manager",
+  "steps": [
+    "Complete a degree in Sports Management or Business",
+    "Learn sports administration and marketing",
+    "Gain experience with sports organizations",
+    "Manage teams, events, and sponsorships",
+    "Advance into senior management roles"
+  ],
+  "skills": [
+    "Leadership",
+    "Management",
+    "Communication",
+    "Marketing"
+  ],
+  "resources": [
+    "Sports Management Courses",
+    "Business Books",
+    "Internships"
+  ]
+},
+
+{
+  "careerName": "Athlete",
+  "steps": [
+    "Choose a sport and start professional training",
+    "Develop physical fitness and technical skills",
+    "Participate in competitions",
+    "Work with professional coaches",
+    "Compete at national and international levels"
+  ],
+  "skills": [
+    "Discipline",
+    "Fitness",
+    "Teamwork",
+    "Mental Strength"
+  ],
+  "resources": [
+    "Professional Coaching",
+    "Sports Academies",
+    "Fitness Training Programs"
+  ]
+},
+
+{
+  "careerName": "Air Traffic Controller",
+  "steps": [
+    "Complete a relevant degree",
+    "Qualify air traffic control examinations",
+    "Learn aviation regulations and navigation",
+    "Complete practical simulator training",
+    "Work in airport control towers"
+  ],
+  "skills": [
+    "Concentration",
+    "Decision Making",
+    "Communication",
+    "Problem Solving"
+  ],
+  "resources": [
+    "Aviation Courses",
+    "ATC Training Programs",
+    "Aviation Manuals"
+  ]
+},
+
+{
+  "careerName": "Aircraft Maintenance Engineer",
+  "steps": [
+    "Complete an AME approved program",
+    "Study aircraft systems and mechanics",
+    "Gain practical maintenance experience",
+    "Obtain necessary certifications",
+    "Work with airlines or aviation companies"
+  ],
+  "skills": [
+    "Mechanical Skills",
+    "Technical Knowledge",
+    "Attention to Detail",
+    "Problem Solving"
+  ],
+  "resources": [
+    "AME Institutes",
+    "Aviation Manuals",
+    "Technical Training"
+  ]
+},
+
+{
+  "careerName": "Flight Dispatcher",
+  "steps": [
+    "Complete aviation-related education",
+    "Learn flight planning and regulations",
+    "Understand weather and navigation systems",
+    "Complete dispatcher training",
+    "Work with airlines and airport operations"
+  ],
+  "skills": [
+    "Planning",
+    "Decision Making",
+    "Aviation Knowledge",
+    "Communication"
+  ],
+  "resources": [
+    "Flight Dispatcher Courses",
+    "Aviation Training",
+    "Navigation Manuals"
+  ]
+}
+]

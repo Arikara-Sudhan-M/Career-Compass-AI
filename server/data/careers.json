@@ -1,0 +1,4202 @@
+[
+  {
+    "careerName": "Software Developer",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Software Developer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Frontend Developer",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Frontend Developer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Backend Developer",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Backend Developer.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Full Stack Developer",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Full Stack Developer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Mobile App Developer",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Mobile App Developer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Data Scientist",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Data Scientist.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Data Analyst",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Data Analyst.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "AI Engineer",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a AI Engineer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "ML Engineer",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a ML Engineer.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Cloud Engineer",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Cloud Engineer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "DevOps Engineer",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a DevOps Engineer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Cyber Security Analyst",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Cyber Security Analyst.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Database Administrator",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Database Administrator.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Network Engineer",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Network Engineer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "QA Engineer",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a QA Engineer.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Civil Engineer",
+    "category": "Engineering",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Engineering Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Civil Engineer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Mechanical Engineer",
+    "category": "Engineering",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Engineering Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Mechanical Engineer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Electrical Engineer",
+    "category": "Engineering",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Engineering Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Electrical Engineer.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Electronics Engineer",
+    "category": "Engineering",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Engineering Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Electronics Engineer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Automobile Engineer",
+    "category": "Engineering",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Engineering Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Automobile Engineer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Marine Engineer",
+    "category": "Engineering",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Engineering Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Marine Engineer.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Aerospace Engineer",
+    "category": "Engineering",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Engineering Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Aerospace Engineer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Robotics Engineer",
+    "category": "Engineering",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Engineering Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Robotics Engineer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Biomedical Engineer",
+    "category": "Engineering",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Engineering Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Biomedical Engineer.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Environmental Engineer",
+    "category": "Engineering",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Engineering Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Environmental Engineer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Doctor",
+    "category": "Medical",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Medical Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Doctor.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Dentist",
+    "category": "Medical",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Medical Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Dentist.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Pharmacist",
+    "category": "Medical",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Medical Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Pharmacist.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Nurse",
+    "category": "Medical",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Medical Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Nurse.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Physiotherapist",
+    "category": "Medical",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Medical Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Physiotherapist.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Radiologist",
+    "category": "Medical",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Medical Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Radiologist.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Nutritionist",
+    "category": "Medical",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Medical Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Nutritionist.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Psychologist",
+    "category": "Medical",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Medical Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Psychologist.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Veterinary Doctor",
+    "category": "Medical",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Medical Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Veterinary Doctor.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Lab Technician",
+    "category": "Medical",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Medical Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Lab Technician.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Chartered Accountant",
+    "category": "Commerce",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Commerce Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Chartered Accountant.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Company Secretary",
+    "category": "Commerce",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Commerce Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Company Secretary.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Financial Analyst",
+    "category": "Commerce",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Commerce Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Financial Analyst.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Investment Banker",
+    "category": "Commerce",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Commerce Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Investment Banker.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Accountant",
+    "category": "Commerce",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Commerce Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Accountant.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Tax Consultant",
+    "category": "Commerce",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Commerce Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Tax Consultant.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Auditor",
+    "category": "Commerce",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Commerce Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Auditor.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Bank Manager",
+    "category": "Commerce",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Commerce Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Bank Manager.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Risk Analyst",
+    "category": "Commerce",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Commerce Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Risk Analyst.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Insurance Advisor",
+    "category": "Commerce",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Commerce Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Insurance Advisor.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "UI UX Designer",
+    "category": "Design",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Design Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a UI UX Designer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Graphic Designer",
+    "category": "Design",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Design Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Graphic Designer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Product Designer",
+    "category": "Design",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Design Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Product Designer.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Motion Designer",
+    "category": "Design",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Design Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Motion Designer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Animator",
+    "category": "Design",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Design Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Animator.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Game Designer",
+    "category": "Design",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Design Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Game Designer.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Fashion Designer",
+    "category": "Design",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Design Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Fashion Designer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Interior Designer",
+    "category": "Design",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Design Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Interior Designer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Web Designer",
+    "category": "Design",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Design Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Web Designer.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Industrial Designer",
+    "category": "Design",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Design Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Industrial Designer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Teacher",
+    "category": "Education",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Education Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Teacher.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Professor",
+    "category": "Education",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Education Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Professor.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Principal",
+    "category": "Education",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Education Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Principal.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Education Consultant",
+    "category": "Education",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Education Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Education Consultant.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Academic Coordinator",
+    "category": "Education",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Education Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Academic Coordinator.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Lawyer",
+    "category": "Law",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Law Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Lawyer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Corporate Lawyer",
+    "category": "Law",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Law Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Corporate Lawyer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Legal Advisor",
+    "category": "Law",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Law Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Legal Advisor.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Judge",
+    "category": "Law",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Law Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Judge.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Legal Researcher",
+    "category": "Law",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Law Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Legal Researcher.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Digital Marketer",
+    "category": "Marketing",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Marketing Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Digital Marketer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "SEO ",
+    "category": "Marketing",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Marketing Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a SEO .",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Content Writer",
+    "category": "Marketing",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Marketing Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Content Writer.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Brand Manager",
+    "category": "Marketing",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Marketing Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Brand Manager.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Social Media Manager",
+    "category": "Marketing",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Marketing Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Social Media Manager.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Hotel Manager",
+    "category": "Hospitality",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Hospitality Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Hotel Manager.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Chef",
+    "category": "Hospitality",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Hospitality Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Chef.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Event Manager",
+    "category": "Hospitality",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Hospitality Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Event Manager.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Travel Consultant",
+    "category": "Hospitality",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Hospitality Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Travel Consultant.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Restaurant Manager",
+    "category": "Hospitality",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Hospitality Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Restaurant Manager.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Research Scientist",
+    "category": "Science",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Science Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Research Scientist.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Biotechnologist",
+    "category": "Science",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Science Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Biotechnologist.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Chemist",
+    "category": "Science",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Science Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Chemist.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Physicist",
+    "category": "Science",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Science Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Physicist.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Microbiologist",
+    "category": "Science",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Science Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Microbiologist.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "IAS Officer",
+    "category": "Government",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Government Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a IAS Officer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "IPS Officer",
+    "category": "Government",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Government Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a IPS Officer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "IFS Officer",
+    "category": "Government",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Government Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a IFS Officer.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Railway Officer",
+    "category": "Government",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Government Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Railway Officer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Bank PO",
+    "category": "Government",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Government Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Bank PO.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Agronomist",
+    "category": "Agriculture",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Agriculture Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Agronomist.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Agricultural Officer",
+    "category": "Agriculture",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Agriculture Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Agricultural Officer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Food Technologist",
+    "category": "Agriculture",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Agriculture Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Food Technologist.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Farmer",
+    "category": "Agriculture",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Agriculture Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Farmer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Horticulturist",
+    "category": "Agriculture",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Agriculture Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Horticulturist.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Journalist",
+    "category": "Media",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Media Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Journalist.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "News Anchor",
+    "category": "Media",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Media Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a News Anchor.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Video Editor",
+    "category": "Media",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Media Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Video Editor.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Film Director",
+    "category": "Media",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Media Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Film Director.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Content Producer",
+    "category": "Media",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Media Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Content Producer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Sports Coach",
+    "category": "Sports",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Sports Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Sports Coach.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Fitness Trainer",
+    "category": "Sports",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Sports Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Fitness Trainer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Sports Analyst",
+    "category": "Sports",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Sports Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Sports Analyst.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Sports Manager",
+    "category": "Sports",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Sports Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Sports Manager.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Athlete",
+    "category": "Sports",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Sports Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Athlete.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Pilot",
+    "category": "Aviation",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Aviation Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Pilot.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Cabin Crew",
+    "category": "Aviation",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Aviation Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Cabin Crew.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Air Traffic Controller",
+    "category": "Aviation",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Aviation Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Air Traffic Controller.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Aircraft Maintenance Engineer",
+    "category": "Aviation",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Aviation Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Aircraft Maintenance Engineer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Flight Dispatcher",
+    "category": "Aviation",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Aviation Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Flight Dispatcher.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Software Developer ",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Software Developer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Frontend Developer ",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Frontend Developer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Backend Developer ",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Backend Developer.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Full Stack Developer",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Full Stack Developer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Mobile App Developer",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Mobile App Developer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Data Scientist",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Data Scientist.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Data Analyst ",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Data Analyst.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "AI Engineer",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a AI Engineer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "ML Engineer ",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a ML Engineer.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Cloud Engineer",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Cloud Engineer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "DevOps Engineer ",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a DevOps Engineer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Cyber Security Analyst",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Cyber Security Analyst.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Database Administrator",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Database Administrator.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Network Engineer",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Network Engineer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "QA Engineer",
+    "category": "IT",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "IT Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a QA Engineer.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Civil Engineer",
+    "category": "Engineering",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Engineering Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Civil Engineer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Mechanical Engineer ",
+    "category": "Engineering",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Engineering Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Mechanical Engineer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Electrical Engineer",
+    "category": "Engineering",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Engineering Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Electrical Engineer.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Electronics Engineer",
+    "category": "Engineering",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Engineering Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Electronics Engineer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Automobile Engineer ",
+    "category": "Engineering",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Engineering Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Automobile Engineer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Marine Engineer",
+    "category": "Engineering",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Engineering Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Marine Engineer.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Aerospace Engineer ",
+    "category": "Engineering",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Engineering Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Aerospace Engineer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Robotics Engineer",
+    "category": "Engineering",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Engineering Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Robotics Engineer.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Biomedical Engineer",
+    "category": "Engineering",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Engineering Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Biomedical Engineer.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Environmental Engineer",
+    "category": "Engineering",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Engineering Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Environmental Engineer.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Doctor",
+    "category": "Medical",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Medical Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Doctor.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Dentist",
+    "category": "Medical",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Medical Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Dentist.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Pharmacist",
+    "category": "Medical",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Medical Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Pharmacist.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Nurse ",
+    "category": "Medical",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Medical Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Nurse.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Physiotherapist",
+    "category": "Medical",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Medical Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Physiotherapist.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Radiologist",
+    "category": "Medical",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Medical Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Radiologist.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Nutritionist",
+    "category": "Medical",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Medical Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Nutritionist.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Psychologist",
+    "category": "Medical",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Medical Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Psychologist.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Veterinary Doctor",
+    "category": "Medical",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Medical Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Veterinary Doctor.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Lab Technician",
+    "category": "Medical",
+    "salaryRange": "6-25 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Medical Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Lab Technician.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Chartered Accountant ",
+    "category": "Commerce",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Commerce Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Chartered Accountant.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Company Secretary",
+    "category": "Commerce",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Commerce Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Company Secretary.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Financial Analyst",
+    "category": "Commerce",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Commerce Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Financial Analyst.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Investment Banker",
+    "category": "Commerce",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Commerce Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Investment Banker.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Accountant",
+    "category": "Commerce",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Commerce Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Accountant.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Tax Consultant ",
+    "category": "Commerce",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Commerce Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Tax Consultant.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Auditor ",
+    "category": "Commerce",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Commerce Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Auditor.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Bank Manager ",
+    "category": "Commerce",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Commerce Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Bank Manager.",
+    "growthRate": 9,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Risk Analyst ",
+    "category": "Commerce",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Commerce Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Risk Analyst.",
+    "growthRate": 10,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  },
+  {
+    "careerName": "Insurance Advisor ",
+    "category": "Commerce",
+    "salaryRange": "4-15 LPA",
+    "futureDemand": "High",
+    "requiredDegree": [
+      "Bachelor Degree",
+      "Commerce Related Degree"
+    ],
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Knowledge"
+    ],
+    "streamEligibility": [
+      "Science",
+      "Commerce",
+      "Arts"
+    ],
+    "description": "Professional career path as a Insurance Advisor.",
+    "growthRate": 8,
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Google"
+    ],
+    "workEnvironment": "Office/Remote"
+  }
+]
