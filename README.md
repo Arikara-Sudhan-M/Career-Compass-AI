@@ -6,6 +6,12 @@ Career Compass AI is a full-stack AI-powered web application that helps students
 
 ---
 
+## ✅ What changed
+
+This version has been migrated from MongoDB to PostgreSQL so it can be deployed on Render for the backend and Vercel for the frontend.
+
+---
+
 ## 🌐 Live Demo
 
 Frontend:https://career-compass-ai-three.vercel.app/
@@ -17,22 +23,24 @@ Backend API:https://career-compass-ai-backend.onrender.com
 
 Screenshots will be added after deployment.
 
-
 ---
 
 # ✨ Features
 
 ## 👤 User Authentication
+
 - Secure user registration and login
 - JWT-based authentication
 - Password encryption using bcrypt
 
 ## 🎯 Career Recommendation
+
 - Personalized career recommendations
 - Explore different career paths
 - View detailed career information
 
 ## 📄 Career Details
+
 - Career descriptions
 - Salary ranges
 - Future demand
@@ -43,28 +51,34 @@ Screenshots will be added after deployment.
 - Top recruiters
 
 ## ⚖️ Career Comparison
+
 - Compare two careers side-by-side
 - Analyze salary, demand, and growth opportunities
 
 ## 🧠 Career Quiz
+
 - Answer personality and interest-based questions
 - Receive suitable career suggestions
 
 ## 🗺 Career Roadmaps
+
 - Step-by-step learning paths
 - Required skills
 - Recommended learning resources
 
 ## 🤖 AI Career Assistant
+
 - Powered by Groq AI
 - Ask career-related questions
 - Get personalized AI guidance
 
 ## ❤️ Saved Careers
+
 - Save favorite careers
 - Access saved careers from the dashboard
 
 ## 🌙 Modern UI/UX
+
 - Responsive design
 - Dark and Light mode
 - Mobile-friendly interface
@@ -75,6 +89,7 @@ Screenshots will be added after deployment.
 # 🛠 Tech Stack
 
 ## Frontend
+
 - React.js
 - Vite
 - Tailwind CSS
@@ -84,18 +99,21 @@ Screenshots will be added after deployment.
 - Framer Motion
 
 ## Backend
+
 - Node.js
 - Express.js
-- MongoDB Atlas
-- Mongoose
+- PostgreSQL
+- pg
 - JWT Authentication
 - bcryptjs
 - REST API
 
 ## AI Integration
+
 - Groq AI API
 
 ## Tools & Deployment
+
 - Git & GitHub
 - Vercel (Frontend)
 - Render (Backend)
@@ -141,7 +159,7 @@ VITE_API_URL=http://localhost:5000/api
 ```
 PORT=5000
 
-MONGO_URI=your_mongodb_connection_string
+DATABASE_URL=postgresql://postgres:postgres@localhost:5432/career_compass
 
 JWT_SECRET=your_jwt_secret_key
 
@@ -192,32 +210,75 @@ http://localhost:5000
 
 ---
 
-# 🔗 API Endpoints
+# � Deploy to Vercel and Render
+
+## Backend on Render
+
+1. Create a new Web Service on Render.
+2. Connect your GitHub repository.
+3. Set the root directory to `server`.
+4. Use this build command:
+   ```bash
+   npm install
+   ```
+5. Use this start command:
+   ```bash
+   npm start
+   ```
+6. Add these environment variables:
+   - `DATABASE_URL` = your PostgreSQL connection string
+   - `JWT_SECRET` = any strong secret
+   - `GROQ_API_KEY` = your Groq API key (optional for local dev, required for AI features)
+
+## Frontend on Vercel
+
+1. Create a new Vercel project.
+2. Connect the same GitHub repository.
+3. Set the root directory to `client`.
+4. Add this environment variable:
+   - `VITE_API_URL` = your Render backend URL, for example:
+     ```text
+     https://your-backend-name.onrender.com/api
+     ```
+5. Deploy.
+
+## Important note
+
+Render will provide the backend URL after deployment. Use that exact URL in Vercel's `VITE_API_URL` variable.
+
+---
+
+# �🔗 API Endpoints
 
 ## Authentication
+
 ```
 POST /api/auth/register
 POST /api/auth/login
 ```
 
 ## Careers
+
 ```
 GET /api/careers
 GET /api/careers/:id
 ```
 
 ## Users
+
 ```
 POST /api/users/save-career
 GET /api/users/saved-careers
 ```
 
 ## Roadmaps
+
 ```
 GET /api/roadmaps/:careerName
 ```
 
 ## AI Assistant
+
 ```
 POST /api/ai/chat
 ```
@@ -264,7 +325,11 @@ If you like this project, please give it a ⭐ on GitHub.
 ---
 
 <<<<<<< HEAD
+
 ## Thank You For Visiting Career Compass AI 🚀
+
 =======
+
 ## Thank You For Visiting Career Compass AI 🚀
->>>>>>> f273acd (Updated frontend API configuration and README)
+
+> > > > > > > f273acd (Updated frontend API configuration and README)

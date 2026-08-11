@@ -1,10 +1,16 @@
 const Groq = require("groq-sdk");
 
-const groq = new Groq({
-  apiKey: process.env.GROQ_API_KEY,
-});
+const groq = process.env.GROQ_API_KEY
+  ? new Groq({
+      apiKey: process.env.GROQ_API_KEY,
+    })
+  : null;
 
 const askGroq = async (message) => {
+  if (!groq) {
+    throw new Error("GROQ_API_KEY is not configured");
+  }
+
   try {
     const chatCompletion = await groq.chat.completions.create({
       messages: [

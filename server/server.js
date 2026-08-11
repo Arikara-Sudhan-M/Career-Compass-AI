@@ -6,7 +6,7 @@ const dotenv = require("dotenv");
 dotenv.config();
 
 // Database Connection
-const connectDB = require("./config/db");
+const { connectDB } = require("./config/db");
 
 // Import Routes
 const authRoutes = require("./routes/authRoutes");
@@ -15,7 +15,7 @@ const userRoutes = require("./routes/userRoutes");
 const roadmapRoutes = require("./routes/roadmapRoutes");
 const aiRoutes = require("./routes/aiRoutes");
 
-// Connect MongoDB Database
+// Connect PostgreSQL Database
 connectDB();
 
 // Initialize Express App

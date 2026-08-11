@@ -1,4 +1,5 @@
 const User = require("../models/Users");
+const Career = require("../models/Career");
 
 // Save Career
 const saveCareer = async (req, res) => {
@@ -13,10 +14,7 @@ const saveCareer = async (req, res) => {
       });
     }
 
-    if (!user.savedCareers.includes(careerId)) {
-      user.savedCareers.push(careerId);
-      await user.save();
-    }
+    await User.addSavedCareer(userId, careerId);
 
     res.status(200).json({
       success: true,
@@ -34,9 +32,7 @@ const getSavedCareers = async (req, res) => {
   try {
     const { userId } = req.params;
 
-    const user = await User.findById(userId).populate(
-      "savedCareers"
-    );
+    const user = await User.findById(userId);
 
     if (!user) {
       return res.status(404).json({
@@ -44,9 +40,15 @@ const getSavedCareers = async (req, res) => {
       });
     }
 
+    const savedCareers = await Promise.all(
+      (user.savedCareers || []).map(async (careerId) => {
+        return Career.findById(careerId);
+      })
+    );
+
     res.status(200).json({
       success: true,
-      savedCareers: user.savedCareers,
+      savedCareers: savedCareers.filter(Boolean),
     });
   } catch (error) {
     res.status(500).json({
@@ -68,11 +70,7 @@ const removeSavedCareer = async (req, res) => {
       });
     }
 
-    user.savedCareers = user.savedCareers.filter(
-      (id) => id.toString() !== careerId
-    );
-
-    await user.save();
+    await User.removeSavedCareer(userId, careerId);
 
     res.status(200).json({
       success: true,
